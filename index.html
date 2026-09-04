@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <title>求职事件</title>
+  <style>
+    :root { --bg:#f4f5f9; --panel:#fff; --border:#e4e7ef; --text:#1f2430; --muted:#6b7280; --blue:#2f6fed; --green:#1c9e5d; --purple:#7c3aed; --red:#c0392b; }
+    * { box-sizing:border-box; margin:0; padding:0; }
+    body { font-family:"PingFang SC","Microsoft YaHei",-apple-system,sans-serif; background:var(--bg); color:var(--text); padding-bottom:24px; }
+    header { position:sticky; top:0; background:var(--panel); border-bottom:1px solid var(--border); padding:14px 16px 10px; z-index:10; }
+    header h1 { font-size:17px; }
+    header .sub { font-size:12px; color:var(--muted); margin-top:2px; }
+    .tabs { display:flex; gap:6px; margin-top:10px; overflow-x:auto; }
+    .tab { flex-shrink:0; padding:6px 12px; border-radius:999px; font-size:13px; background:#eef0f6; color:var(--muted); }
+    .tab.active { background:var(--blue); color:#fff; }
+    .search { margin-top:10px; width:100%; padding:9px 12px; border:1px solid var(--border); border-radius:10px; font-size:14px; background:#fff; }
+    main { padding:12px 14px; }
+    /* 日历 */
+    .cal-panel { background:var(--panel); border:1px solid var(--border); border-radius:12px; padding:12px; }
+    .cal-toolbar { display:flex; align-items:center; gap:10px; margin-bottom:8px; }
+    .cal-toolbar button { border:1px solid var(--border); background:#fff; border-radius:8px; padding:6px 10px; font-size:14px; }
+    .cal-title { flex:1; text-align:center; font-weight:700; font-size:15px; }
+    .cal-grid { display:grid; grid-template-columns:repeat(7,1fr); gap:4px; }
+    .cal-wd { text-align:center; color:var(--muted); font-size:11px; padding:4px 0; }
+    .cal-day { min-height:46px; border:1px solid var(--border); border-radius:8px; padding:4px 3px; font-size:12px; position:relative; }
+    .cal-day.outside { opacity:.4; }
+    .cal-day.today { border-color:var(--blue); background:#eef4ff; }
+    .cal-day.sel { background:#dbe7ff; }
+    .cal-day .n { font-weight:600; }
+    .cal-day .dots { display:flex; gap:2px; margin-top:3px; flex-wrap:wrap; }
+    .cal-day .dot { width:6px; height:6px; border-radius:50%; }
+    .d-int { background:var(--blue); } .d-pre { background:var(--green); } .d-sig { background:var(--purple); } .d-pen { background:#d0a94a; }
+    .cal-count { position:absolute; right:3px; bottom:2px; font-size:9px; color:var(--muted); }
+    /* 当天列表 */
+    .day-title { font-size:15px; font-weight:700; margin:14px 2px 8px; }
+    .card { background:var(--panel); border:1px solid var(--border); border-radius:12px; padding:12px 14px; margin-bottom:8px; box-shadow:0 1px 3px rgba(0,0,0,.04); }
+    .card-head { display:flex; align-items:center; gap:8px; flex-wrap:wrap; }
+    .badge { display:inline-block; padding:2px 8px; border-radius:999px; font-size:11px; font-weight:600; }
+    .b-interview { background:#e9f0ff; color:var(--blue); }
+    .b-presentation { background:#eafaf1; color:var(--green); }
+    .b-signing { background:#f3e8ff; color:var(--purple); }
+    .b-pending { background:#fff7e8; color:#b97a00; }
+    .company { font-size:15px; font-weight:700; flex:1; min-width:0; }
+    .time { font-size:13px; color:var(--muted); margin-top:4px; }
+    .meta { font-size:12px; color:var(--muted); margin-top:4px; line-height:1.6; }
+    .detail { margin-top:8px; border-top:1px dashed var(--border); padding-top:8px; font-size:13px; line-height:1.8; display:none; }
+    .detail.show { display:block; }
+    .detail .row { display:flex; gap:6px; margin-top:3px; }
+    .detail .k { color:var(--muted); flex-shrink:0; }
+    .empty { text-align:center; color:var(--muted); padding:40px 0; }
+    .err { text-align:center; color:var(--red); padding:40px 16px; font-size:14px; line-height:1.8; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>求职信息整理助手</h1>
+    <div class="sub" id="sub">加载中…</div>
+    <div class="tabs" id="tabs"></div>
+    <input class="search" id="q" type="search" placeholder="搜索企业 / 岗位 / 地点" />
+  </header>
+  <main>
+    <div class="cal-panel">
+      <div class="cal-toolbar">
+        <button id="prev">◀</button>
+        <div class="cal-title" id="calTitle"></div>
+        <button id="next">▶</button>
+      </div>
+      <div class="cal-grid" id="calGrid"></div>
+    </div>
+    <div class="day-title" id="dayTitle">选择日期</div>
+    <div id="dayList"></div>
+  </main>
+
+  <script>
+    (function () {
+      const params = new URLSearchParams(location.search);
+      const TOKEN = params.get('token') || '';
+      // 两种模式：局域网/隧道（带 token 走 /api/events）；GitHub Pages 云端（无 token 读 ./events.json）
+      const API = TOKEN ? ('/api/events?token=' + encodeURIComponent(TOKEN)) : './events.json';
+      const TYPES = [['all','全部'],['interview','面试通知'],['presentation','宣讲会'],['signing','签约会'],['pending','待确认']];
+      let allEvents = [];
+      let curType = 'all';
+      let curQ = '';
+      let curYear = 0, curMonth = 0, selectedDate = null;
+      const WEEKDAYS = ['一','二','三','四','五','六','日'];
+
+      const typeLabel = (t) => t === 'interview' ? '面试通知' : t === 'presentation' ? '宣讲会' : t === 'signing' ? '签约会' : '待确认';
+      const typeCls = (t) => t === 'interview' ? 'b-interview' : t === 'presentation' ? 'b-presentation' : t === 'signing' ? 'b-signing' : 'b-pending';
+      const dotCls = (t) => t === 'interview' ? 'd-int' : t === 'presentation' ? 'd-pre' : t === 'signing' ? 'd-sig' : 'd-pen';
+
+      function esc(s){ return String(s==null?'':s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
+      function pad(n){ return String(n).padStart(2,'0'); }
+      function todayStr(){ const d=new Date(); return d.getFullYear()+'-'+pad(d.getMonth()+1)+'-'+pad(d.getDate()); }
+      function classify(e){ return e.type === 'interview' ? 'interview' : e.type === 'presentation' ? 'presentation' : e.type === 'signing' ? 'signing' : 'pending'; }
+
+      async function load() {
+        try {
+          const res = await fetch(API);
+          if (!res.ok) throw new Error('HTTP ' + res.status);
+          const data = await res.json();
+          allEvents = data.events || [];
+          document.getElementById('sub').textContent = '共 ' + allEvents.length + ' 个事件';
+          const now = new Date();
+          curYear = now.getFullYear(); curMonth = now.getMonth(); selectedDate = todayStr();
+          buildTabs(); renderCal(); selectDay(selectedDate);
+        } catch (e) {
+          document.getElementById('sub').textContent = '加载失败';
+          document.getElementById('dayList').innerHTML = '<div class="err">无法连接电脑端服务<br>请确认电脑已开启「手机同步查看」<br>且手机与电脑在同一 WiFi</div>';
+        }
+      }
+
+      function buildTabs() {
+        const tabs = document.getElementById('tabs');
+        tabs.innerHTML = '';
+        for (const [v, label] of TYPES) {
+          const el = document.createElement('span');
+          el.className = 'tab' + (v === curType ? ' active' : '');
+          el.textContent = label;
+          el.onclick = () => { curType = v; buildTabs(); renderCal(); selectDay(selectedDate); };
+          tabs.appendChild(el);
+        }
+      }
+
+      function filteredEvents() {
+        return allEvents.filter(e => {
+          if (curType !== 'all' && classify(e) !== curType) return false;
+          if (curQ) { const s=[e.company,e.position,e.location].join(' ').toLowerCase(); if(!s.includes(curQ.toLowerCase())) return false; }
+          return true;
+        });
+      }
+
+      function byDateMap() {
+        const m = new Map();
+        for (const e of filteredEvents()) if (e.date) { (m.get(e.date)||m.set(e.date,[]).get(e.date)).push(e); }
+        return m;
+      }
+
+      function renderCal() {
+        document.getElementById('calTitle').textContent = curYear + '年' + (curMonth+1) + '月';
+        const grid = document.getElementById('calGrid');
+        grid.innerHTML = '';
+        for (const w of WEEKDAYS) grid.appendChild(span('cal-wd', w));
+        const first = new Date(curYear, curMonth, 1);
+        const startDow = first.getDay() === 0 ? 6 : first.getDay()-1;
+        const daysIn = new Date(curYear, curMonth+1, 0).getDate();
+        const prevDays = new Date(curYear, curMonth, 0).getDate();
+        const today = todayStr();
+        const map = byDateMap();
+        const cells = [];
+        for (let i=0;i<startDow;i++) cells.push({ day: prevDays-startDow+i+1, date:null, outside:true });
+        for (let d=1;d<=daysIn;d++) cells.push({ day:d, date: curYear+'-'+pad(curMonth+1)+'-'+pad(d), outside:false });
+        while (cells.length % 7 !== 0) cells.push({ day:(cells[cells.length-1]?cells[cells.length-1].day:0)+1, date:null, outside:true });
+        for (const c of cells) {
+          const el = document.createElement('div');
+          el.className = 'cal-day' + (c.outside?' outside':'') + (c.date===today?' today':'') + (c.date===selectedDate?' sel':'');
+          el.appendChild(span('n', c.day));
+          if (c.date && map.has(c.date)) {
+            const evs = map.get(c.date);
+            const dots = document.createElement('div'); dots.className='dots';
+            evs.slice(0,3).forEach(e => dots.appendChild(span('dot '+dotCls(e.type))));
+            el.appendChild(dots);
+            el.appendChild(span('cal-count', evs.length));
+          }
+          if (c.date) el.onclick = () => selectDay(c.date);
+          grid.appendChild(el);
+        }
+      }
+
+      function span(cls, text){ const s=document.createElement('span'); s.className=cls; s.textContent=text; return s; }
+
+      function detailHtml(e) {
+        const rows = [];
+        const add = (k, v) => { if (v) rows.push('<div class="row"><span class="k">'+k+'</span><span>'+esc(v)+'</span></div>'); };
+        add('企业', e.company);
+        add('岗位', e.position);
+        add('时间', [e.date, e.startTime].filter(Boolean).join(' ') + (e.endTime ? ' ~ ' + e.endTime : ''));
+        add(e.type === 'interview' ? '方式' : e.type === 'signing' ? '形式' : '形式', e.method && e.method !== '未知' ? e.method : '');
+        add('平台', e.platform);
+        add(e.type === 'interview' ? '地点' : e.type === 'signing' ? '签约地点' : '地点', e.location);
+        add('会议号', e.meetingId);
+        if (e.needRegister && e.needRegister !== '未知') add('报名', e.needRegister);
+        if (e.registerDeadline) add('报名截止', e.registerDeadline);
+        if (e.links && e.links.length) add('链接', e.links.map(l => l.label + ' ' + l.url).join('；'));
+        else if (e.meetingUrl) add('链接', e.meetingUrl);
+        add('待办', (e.todos||[]).join('；'));
+        return rows.join('');
+      }
+
+      function selectDay(date) {
+        selectedDate = date;
+        document.getElementById('dayTitle').textContent = date + ' 的事件';
+        const list = document.getElementById('dayList');
+        const evs = byDateMap().get(date) || [];
+        evs.sort((a,b)=>(a.startTime||'').localeCompare(b.startTime||''));
+        if (!evs.length) { list.innerHTML = '<div class="empty">当天没有安排</div>'; renderCal(); return; }
+        let html = '';
+        for (const e of evs) {
+          html += '<div class="card"><div class="card-head"><span class="badge '+typeCls(e.type)+'">'+typeLabel(e.type)+'</span>' +
+            '<span class="company">'+esc(e.company||'（未识别企业）')+'</span></div>' +
+            '<div class="time">'+esc([e.startTime,e.endTime?('~'+e.endTime):''].filter(Boolean).join(' ') || '时间待确认')+'</div>' +
+            '<div class="meta">'+esc([e.position,e.location,e.method!=='未知'?e.method:''].filter(Boolean).join(' · '))+'</div>' +
+            '<div class="detail">'+detailHtml(e)+'</div></div>';
+        }
+        list.innerHTML = html;
+        list.querySelectorAll('.card').forEach(card => {
+          card.addEventListener('click', () => {
+            const d = card.querySelector('.detail');
+            const was = d.classList.contains('show');
+            list.querySelectorAll('.detail.show').forEach(x=>x.classList.remove('show'));
+            if (!was) d.classList.add('show');
+          });
+        });
+        renderCal();
+      }
+
+      document.getElementById('prev').onclick = () => { curMonth--; if(curMonth<0){curMonth=11;curYear--;} renderCal(); };
+      document.getElementById('next').onclick = () => { curMonth++; if(curMonth>11){curMonth=0;curYear++;} renderCal(); };
+      document.getElementById('q').addEventListener('input', (e) => { curQ = e.target.value; renderCal(); selectDay(selectedDate); });
+      load();
+    })();
+  </script>
+</body>
+</html>
