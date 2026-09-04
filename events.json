@@ -1,1 +1,416 @@
-{"updatedAt":"2026-09-04T16:53:27.776Z","events":[]}
+{
+  "updatedAt": "2026-09-04T17:00:25.785Z",
+  "events": [
+    {
+      "type": "interview",
+      "company": "新能安",
+      "position": "",
+      "date": "2026-09-08",
+      "startTime": null,
+      "endTime": null,
+      "partOfDay": null,
+      "startDateTime": "2026-09-08T",
+      "method": "线下",
+      "platform": "",
+      "location": "以面试通知邮件为准",
+      "classroom": "",
+      "meetingUrl": "",
+      "links": [],
+      "meetingId": "",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "暂无明确待办"
+      ],
+      "warnings": [
+        {
+          "level": "warn",
+          "field": "startTime",
+          "message": "未识别到具体面试时间，请查看原通知确认"
+        }
+      ],
+      "lowConfFields": [],
+      "conf": {
+        "company": "中",
+        "date": "高",
+        "method": "高",
+        "location": "高"
+      },
+      "raw": "2️⃣9月8日现场面试——地点以面试通知邮件为准",
+      "inputRaw": "[烟花]Ampace新能安2027秋招宣讲会来了！[烟花]\n1️⃣9月7日 宣讲会\n翔安校区-能源学院和木楼A221  14:30-16:30\n思明校区-克立楼三楼报告厅 19:00-21:00\n2️⃣9月8日 现场面试——地点以面试通知邮件为准\n3️⃣9月9日 签约会——地点以签约通知邮件为准\n\n*研发大佬亲临现场\n*精美礼品现场派送（大疆运动相机、B站年度大会员、wakuku惊喜盲盒、神秘文创等）\n*极具吸引力薪酬现场公布\n        本科：20-32W\n        硕士：22-55W\n        博士：45W+起...     \n更有免费公寓式单人间/套间、自助食堂、健身房、活动中心、带薪年假、团建旅游等福利！\n\n👉🏻工作地点：厦门\n👉🏻专业方向：化学类、电气类、自动化类、动力工程类、计算机类、控制类、电子类、机械工程类、材料类等相关专业\n👉🏻更多岗位&网申链接：https://mp.weixin.qq.com/s/eGRZhO91cdkew0U_0rnwNg\n👉🏻校招行程信息在“Ampace新能安招聘”公众号实时公布，欢迎关注！\n👉🏻厦大专属内推码：【lcitjm】",
+      "status": "已确认",
+      "id": "7c4bab7d-42ce-4316-a8d4-b26b0a74fb38",
+      "createdAt": "2026-09-04T14:40:05.872Z",
+      "updatedAt": "2026-09-04T14:40:05.872Z",
+      "reminded": []
+    },
+    {
+      "type": "presentation",
+      "company": "华虹集团",
+      "position": "",
+      "date": "2026-10-08",
+      "startTime": "19:10",
+      "endTime": "21:00",
+      "partOfDay": null,
+      "startDateTime": "2026-10-08T19:10",
+      "method": "线下",
+      "platform": "",
+      "location": "学武楼(1号楼)C202",
+      "classroom": "",
+      "meetingUrl": "",
+      "links": [],
+      "meetingId": "",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "暂无明确待办"
+      ],
+      "warnings": [],
+      "lowConfFields": [],
+      "conf": {
+        "company": "高",
+        "date": "高",
+        "startTime": "高",
+        "method": "中",
+        "location": "高"
+      },
+      "raw": "【华虹集团】\n华虹集团作为一家全球领先集成电路制造企业,同时拥有多条8英寸和12英寸生产线,核心主业分布在上海,无锡,成都等地,在芯片制造,芯片设计,系统集成,工艺研发,电子器件物流,投资等领域.旗下【华虹宏力➕上海华力】超多 hc -千人以上-等你来.\n⏰【宣讲信息】\n1️⃣翔安校区:10月8日 (周四)19:10-21:00,学武楼(1号楼)C202\n2️⃣思明校区:10月9 日(周五)19:10-21:00,群贤二102",
+      "inputRaw": "【华虹集团】\n华虹集团作为一家全球领先集成电路制造企业，同时拥有多条8英寸和12英寸生产线，核心主业分布在上海、无锡、成都等地，在芯片制造、芯片设计、系统集成、工艺研发、电子器件物流、投资等领域。旗下【华虹宏力➕上海华力】超多 hc -千人以上-等你来。\n\n⏰【宣讲信息】\n1️⃣翔安校区：10月8日 （周四）19:10-21:00，学武楼（1号楼）C202\n2️⃣思明校区：10月9 日（周五）19:10-21:00，群贤二102\n3️⃣面试：翔安校区10月9日\n                 思明校区10月10日",
+      "status": "已确认",
+      "id": "1d6d0fb3-278d-440f-8b10-da968d6d7c76",
+      "createdAt": "2026-09-04T15:22:40.068Z",
+      "updatedAt": "2026-09-04T15:22:40.068Z",
+      "reminded": []
+    },
+    {
+      "type": "interview",
+      "company": "华虹集团",
+      "position": "",
+      "date": "2026-10-09",
+      "startTime": null,
+      "endTime": null,
+      "partOfDay": null,
+      "startDateTime": "2026-10-09T",
+      "method": "线下",
+      "platform": "",
+      "location": "",
+      "classroom": "",
+      "meetingUrl": "",
+      "links": [],
+      "meetingId": "",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "暂无明确待办"
+      ],
+      "warnings": [
+        {
+          "level": "warn",
+          "field": "startTime",
+          "message": "未识别到具体面试时间，请查看原通知确认"
+        }
+      ],
+      "lowConfFields": [
+        "position"
+      ],
+      "conf": {
+        "company": "中",
+        "date": "高",
+        "position": "低",
+        "method": "中",
+        "location": "中"
+      },
+      "raw": "3️⃣面试:翔安校区10月9日\n思明校区10月10日",
+      "inputRaw": "【华虹集团】\n华虹集团作为一家全球领先集成电路制造企业，同时拥有多条8英寸和12英寸生产线，核心主业分布在上海、无锡、成都等地，在芯片制造、芯片设计、系统集成、工艺研发、电子器件物流、投资等领域。旗下【华虹宏力➕上海华力】超多 hc -千人以上-等你来。\n\n⏰【宣讲信息】\n1️⃣翔安校区：10月8日 （周四）19:10-21:00，学武楼（1号楼）C202\n2️⃣思明校区：10月9 日（周五）19:10-21:00，群贤二102\n3️⃣面试：翔安校区10月9日\n                 思明校区10月10日",
+      "status": "已确认",
+      "id": "0490c654-1644-4600-b751-0cec0fad0a69",
+      "createdAt": "2026-09-04T15:22:40.068Z",
+      "updatedAt": "2026-09-04T15:22:40.068Z",
+      "reminded": []
+    },
+    {
+      "type": "interview",
+      "company": "慧联集团",
+      "position": "储备干部(研发)",
+      "date": "2026-09-07",
+      "startTime": "11:30",
+      "endTime": null,
+      "partOfDay": null,
+      "method": "线上",
+      "platform": "钉钉",
+      "location": "",
+      "classroom": "",
+      "meetingUrl": "https://meeting.dingtalk.com/j/0BX3H3ujb5N",
+      "meetingId": "",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "测试摄像头和麦克风"
+      ],
+      "warnings": [],
+      "lowConfFields": [
+        "position"
+      ],
+      "conf": {
+        "company": "高",
+        "date": "高",
+        "startTime": "高",
+        "position": "低",
+        "method": "高",
+        "platform": "高",
+        "meetingUrl": "中"
+      },
+      "raw": "【慧联 2027 校招 · 面试通知】\n庞志斌同学,你好:\n很高兴通知你,你已进入慧联 2027 届校园招聘面试环节!面试安排如下,请仔细阅读:\n一,面试信息\n应聘岗位:储备干部(研发)\n面试时间:2026年9月7日(周一)11:30\n面试形式:线上视频面试(钉钉会议)\n入会链接:https://meeting.dingtalk.com/j/0BX3H3ujb5N\n二,面试流程(预计总时长约 30 分钟)\n1.自我介绍与岗位了解交流\n2.专业基础知识与校内外经历交流\n3.职业规划与综合素质沟通\n4.你的提问答疑环节\n三,面试前准备\n1.建议提前 2 分钟入会测试摄像头与网络\n2.请于面试前将电子成绩单发送给HR\n3.请填写随附的《慧联集团应聘登记表》,完成后微信回传电子版即可\n如有任何疑问,欢迎随时联系我们.期待与你线上相见,祝面试顺利!",
+      "inputRaw": "【慧联 2027 校招 · 面试通知】\n庞志斌同学,你好:\n很高兴通知你,你已进入慧联 2027 届校园招聘面试环节!面试安排如下,请仔细阅读:\n一、面试信息\n应聘岗位：储备干部（研发）\n面试时间:2026年9月7日（周一）11:30\n面试形式:线上视频面试(钉钉会议)\n入会链接:https://meeting.dingtalk.com/j/0BX3H3ujb5N\n二、面试流程(预计总时长约 30 分钟)\n1.自我介绍与岗位了解交流\n2.专业基础知识与校内外经历交流\n3.职业规划与综合素质沟通\n4.你的提问答疑环节\n三、面试前准备\n1.建议提前 2 分钟入会 测试摄像头与网络\n2.请于面试前 将电子成绩单发送给HR\n3.请填写随附的《慧联集团应聘登记表》,完成后微信回传电子版即可\n\n如有任何疑问,欢迎随时联系我们。期待与你线上相见,祝面试顺利!",
+      "status": "已确认",
+      "id": "39d357dc-2263-4860-a675-4dcf1156761f",
+      "createdAt": "2026-09-04T13:37:18.130Z",
+      "updatedAt": "2026-09-04T13:37:18.130Z",
+      "reminded": []
+    },
+    {
+      "type": "interview",
+      "company": "长江存储",
+      "position": "工艺工程",
+      "date": "2026-09-06",
+      "startTime": "13:30",
+      "endTime": null,
+      "partOfDay": null,
+      "method": "线上",
+      "platform": "小鱼易连",
+      "location": "",
+      "classroom": "",
+      "meetingUrl": "https://yoyomeeting.ymtc.com/xy_cloud/page/j/JK81I0KWYDTKN0BN",
+      "meetingId": "910114298112",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "下载面试软件"
+      ],
+      "warnings": [],
+      "lowConfFields": [
+        "position"
+      ],
+      "conf": {
+        "company": "高",
+        "date": "高",
+        "startTime": "高",
+        "position": "低",
+        "method": "高",
+        "platform": "高",
+        "meetingId": "高",
+        "meetingUrl": "中"
+      },
+      "raw": "庞志斌,您好!\n感谢您对长江存储的关注!诚邀您参加工艺工程的视频面试.面试安排如下:\n面试时间:2026-09-06星期日13:30\n岗位名称:工艺工程\n招聘负责人: HR; 联系方式: KHALIFA ZHANG@YMTC.COM\n视频面试-小鱼易连\n为保证面试质量,请下载小鱼易连客户端再登录面试链接\n客户 端下 载地 址: https://xylink.com/download\n面试链接: https://yoyomeeting.ymtc.com/xy cloud/page/i/JK811OKWYDTKNOBN\n会议号:910114298112\n接受面试拒绝面试\n温馨提醒:\n请点击上方接受按钮,反馈参与面试;\n如您遇特殊情况必需更改面试时间,请您提前2小时联系\n请您在面试过程注意自身保密义务,不透露可能导致违反自身保密义务的信息.",
+      "inputRaw": "庞志斌，您好！\n感谢您对长江存储的关注！诚邀您参加工艺工程的视频面试。面试安排如下：\n面试时间：2026-09-06星期日13:30\n岗位名称：工艺工程\n招聘负责人： HR； 联系方式： KHALIFA ZHANG@YMTC.COM\n视频面试-小鱼易连\n为保证面试质量，请下载小鱼易连客户端再登录面试链接\n客 户 端 下 载 地 址： https://xylink.com/download\n面试链接： https://yoyomeeting.ymtc.com/xy cloud/page/i/JK811OKWYDTKNOBN\n会议号:910114298112\n接受面试 拒绝面试\n温馨提醒：\n•请点击上方接受按钮，反馈参与面试；\n·如您遇特殊情况必需更改面试时间，请您提前2小时联系\n· 请您在面试过程注意自身保密义务，不透露可能导致违反自身保密义务的信息。",
+      "status": "已确认",
+      "id": "2603d1d2-330f-45f6-b1c4-b0774eb499b8",
+      "createdAt": "2026-09-04T13:38:12.823Z",
+      "updatedAt": "2026-09-04T13:38:12.823Z",
+      "reminded": []
+    },
+    {
+      "type": "presentation",
+      "company": "新能安",
+      "position": "",
+      "date": "2026-09-07",
+      "startTime": "14:30",
+      "endTime": "16:30",
+      "partOfDay": null,
+      "method": "线下",
+      "platform": "",
+      "location": "能源学院和木楼A221",
+      "classroom": "",
+      "meetingUrl": "",
+      "links": [],
+      "meetingId": "",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "暂无明确待办"
+      ],
+      "warnings": [],
+      "lowConfFields": [],
+      "conf": {
+        "company": "高",
+        "date": "高",
+        "startTime": "高",
+        "method": "中",
+        "location": "高"
+      },
+      "raw": "[烟花]Ampace新能安2027秋招宣讲会来了![烟花]\n1️⃣9月7日宣讲会\n翔安校区-能源学院和木楼A221 14:30-16:30\n思明校区-克立楼三楼报告厅 19:00-21:00",
+      "inputRaw": "[烟花]Ampace新能安2027秋招宣讲会来了！[烟花]\n1️⃣9月7日 宣讲会\n翔安校区-能源学院和木楼A221  14:30-16:30\n思明校区-克立楼三楼报告厅 19:00-21:00\n2️⃣9月8日 现场面试——地点以面试通知邮件为准\n3️⃣9月9日 签约会——地点以签约通知邮件为准\n\n*研发大佬亲临现场\n*精美礼品现场派送（大疆运动相机、B站年度大会员、wakuku惊喜盲盒、神秘文创等）\n*极具吸引力薪酬现场公布\n        本科：20-32W\n        硕士：22-55W\n        博士：45W+起...     \n更有免费公寓式单人间/套间、自助食堂、健身房、活动中心、带薪年假、团建旅游等福利！\n\n👉🏻工作地点：厦门\n👉🏻专业方向：化学类、电气类、自动化类、动力工程类、计算机类、控制类、电子类、机械工程类、材料类等相关专业\n👉🏻更多岗位&网申链接：https://mp.weixin.qq.com/s/eGRZhO91cdkew0U_0rnwNg\n👉🏻校招行程信息在“Ampace新能安招聘”公众号实时公布，欢迎关注！\n👉🏻厦大专属内推码：【lcitjm】",
+      "status": "已确认",
+      "id": "458f2078-c41b-447c-bb75-acd4ad028890",
+      "createdAt": "2026-09-04T14:40:05.872Z",
+      "updatedAt": "2026-09-04T14:45:06.993Z",
+      "reminded": []
+    },
+    {
+      "type": "signing",
+      "company": "新能安",
+      "position": "",
+      "date": "2026-09-09",
+      "startTime": null,
+      "endTime": null,
+      "partOfDay": null,
+      "method": "线下",
+      "platform": "",
+      "location": "以签约通知邮件为准",
+      "classroom": "",
+      "meetingUrl": "",
+      "links": [],
+      "meetingId": "",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "暂无明确待办"
+      ],
+      "warnings": [],
+      "lowConfFields": [
+        "location"
+      ],
+      "conf": {
+        "company": "中",
+        "date": "高",
+        "method": "高",
+        "location": "低",
+        "meetingUrl": "中"
+      },
+      "raw": "3️⃣9月9日签约会——地点以签约通知邮件为准\n*研发大佬亲临现场\n*精美礼品现场派送(大疆运动相机,B站年度大会员,wakuku惊喜盲盒,神秘文创等)\n*极具吸引力薪酬现场公布\n本科:20-32W\n硕士:22-55W\n博士:45W+起...\n👉🏻工作地点:厦门\n👉🏻专业方向:化学类,电气类,自动化类,动力工程类,计算机类,控制类,电子类,机械工程类,材料类等相关专业\n👉🏻更多岗位&网申链接:https://mp.weixin.qq.com/s/eGRZhO91cdkew0U_0rnwNg\n👉🏻校招行程信息在“Ampace新能安招聘”公众号实时公布,欢迎关注!\n👉🏻厦大专属内推码:【lcitjm】",
+      "inputRaw": "[烟花]Ampace新能安2027秋招宣讲会来了！[烟花]\n1️⃣9月7日 宣讲会\n翔安校区-能源学院和木楼A221  14:30-16:30\n思明校区-克立楼三楼报告厅 19:00-21:00\n2️⃣9月8日 现场面试——地点以面试通知邮件为准\n3️⃣9月9日 签约会——地点以签约通知邮件为准\n\n*研发大佬亲临现场\n*精美礼品现场派送（大疆运动相机、B站年度大会员、wakuku惊喜盲盒、神秘文创等）\n*极具吸引力薪酬现场公布\n        本科：20-32W\n        硕士：22-55W\n        博士：45W+起...     \n更有免费公寓式单人间/套间、自助食堂、健身房、活动中心、带薪年假、团建旅游等福利！\n\n👉🏻工作地点：厦门\n👉🏻专业方向：化学类、电气类、自动化类、动力工程类、计算机类、控制类、电子类、机械工程类、材料类等相关专业\n👉🏻更多岗位&网申链接：https://mp.weixin.qq.com/s/eGRZhO91cdkew0U_0rnwNg\n👉🏻校招行程信息在“Ampace新能安招聘”公众号实时公布，欢迎关注！\n👉🏻厦大专属内推码：【lcitjm】",
+      "status": "已确认",
+      "id": "448670e8-3a58-4b30-b325-ca3d50a7cddf",
+      "createdAt": "2026-09-04T14:40:05.872Z",
+      "updatedAt": "2026-09-04T15:57:57.062Z",
+      "reminded": []
+    },
+    {
+      "type": "presentation",
+      "company": "欣旺达",
+      "position": "",
+      "date": "2026-09-11",
+      "startTime": "19:00",
+      "endTime": null,
+      "partOfDay": "晚上",
+      "method": "线下",
+      "platform": "",
+      "location": "学武楼C107",
+      "classroom": "",
+      "meetingUrl": "",
+      "links": [],
+      "meetingId": "",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "暂无明确待办"
+      ],
+      "warnings": [],
+      "lowConfFields": [],
+      "conf": {
+        "company": "高",
+        "date": "高",
+        "startTime": "高",
+        "method": "中",
+        "location": "高"
+      },
+      "raw": "欣旺达动力将于9月11日晚上19:00在厦大翔安校区学武楼C107举办宣讲会,欢迎大家届时积极参加!",
+      "inputRaw": "欣旺达动力将于9月11日晚上19：00在厦大翔安校区学武楼C107举办宣讲会，欢迎大家届时积极参加！",
+      "status": "已确认",
+      "id": "26831676-6862-42de-a3d7-6b8c6ea9ca1e",
+      "createdAt": "2026-09-04T14:44:35.469Z",
+      "updatedAt": "2026-09-04T14:44:35.469Z",
+      "reminded": []
+    },
+    {
+      "type": "presentation",
+      "company": "韶音科技",
+      "position": "",
+      "date": "2026-09-09",
+      "startTime": "19:10",
+      "endTime": "21:00",
+      "partOfDay": null,
+      "method": "线下",
+      "platform": "",
+      "location": "祖营楼(嘉庚四)103",
+      "classroom": "",
+      "meetingUrl": "",
+      "links": [],
+      "meetingId": "",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "暂无明确待办"
+      ],
+      "warnings": [],
+      "lowConfFields": [],
+      "conf": {
+        "company": "高",
+        "date": "高",
+        "startTime": "高",
+        "method": "中",
+        "location": "高"
+      },
+      "raw": "#Shokz韶音#韶音科技27届校招开启\n【Shokz韶音】\n作为骨传导耳机领导者,产品进驻60+国家;深耕声学器件,助听器,算法,MEMS和大健康五大方向.\n开放式耳机专利数量全球第一\n出连续3年(2023-2025)全球开放式耳机品牌出货星第—\n,鼓励员工每月运动100里程,学习100积分,每年上百万经费支持运动和学习\n三大核心研发部门,海量技术岗位,快来投递~ 志\n【宣讲信息】\n9月9日19:10-21:00(周三)\n思明校区祖营楼(嘉庚四)103",
+      "inputRaw": "#Shokz韶音#韶音科技27届校招开启\n【Shokz韶音】\n作为骨传导耳机领导者，产品进驻60+国家；深耕声学器件、助听器、算法、MEMS和大健康五大方向。\n开放式耳机专利数量全球第一\n出连续3年（2023-2025)全球开放式耳机品牌出货星第—\n,鼓励员工每月运动100里程，学习100积分，每年上百万经费支持运动和学习\n三大核心研发部门，海量技术岗位，快来投递~ 志\n【宣讲信息】\n9月9日19:10-21:00(周三)\n思明校区祖营楼(嘉庚四)103\n 【招聘岗位】\n产品类；研究类；开发类；设计策划类；工程技术类；营销运营类；供应链运营类；品质管理类；IT类；职能类；公司级管培类\n?【工作地点】\n广东省深圳市\n可 【招聘对象】\n2026年1月-2027年12月的毕业生\n2【内推通道】\n厦门大学校园大使唯一内推码：DSYQD8Zq，简历优先筛选，进度全程追踪",
+      "status": "已确认",
+      "id": "68d271d0-24ce-4104-920f-dcbf522ab5e7",
+      "createdAt": "2026-09-04T14:46:26.777Z",
+      "updatedAt": "2026-09-04T14:46:26.777Z",
+      "reminded": []
+    },
+    {
+      "type": "presentation",
+      "company": "日立能源",
+      "position": "",
+      "date": "2026-09-15",
+      "startTime": "15:00",
+      "endTime": "17:00",
+      "partOfDay": null,
+      "method": "线下",
+      "platform": "",
+      "location": "航空航天学院",
+      "classroom": "",
+      "meetingUrl": "https://v.wjx.cn/vm/hTCu1ou.aspx?code=091lLe000FkyXW1Mmi300CrA512lLe0x&state=sojump",
+      "links": [
+        {
+          "label": "宣讲直播链接",
+          "url": "https://v.wjx.cn/vm/hTCu1ou.aspx?code=091lLe000FkyXW1Mmi300CrA512lLe0x&state=sojump"
+        }
+      ],
+      "meetingId": "",
+      "password": "",
+      "needRegister": "是",
+      "registerDeadline": "",
+      "todos": [
+        "暂无明确待办"
+      ],
+      "warnings": [],
+      "lowConfFields": [],
+      "conf": {
+        "date": "高",
+        "startTime": "高",
+        "method": "高",
+        "location": "高",
+        "meetingUrl": "中",
+        "needRegister": "高"
+      },
+      "raw": "群公告\n📢 赢大疆Pocket4,拿培训生offer|世界500强能源外企,福布斯中国最佳ESG雇主【日立能源】(总部瑞士苏黎世)邀您参加线下宣讲会!\n🎁 培训生Offer+北京户口+超值大奖等你来拿!现场抽奖赢取大疆 Pocket 4,罗技键鼠套装,拍立得等惊喜好礼~\n━━━━━━━━━━━━━━\n🕒 宣讲时间\n9月15日 :15:00–17:00\n📍 宣讲地点\n厦门大学 · 航空航天学院\n🔗 宣讲报名链接\nhttps://v.wjx.cn/vm/hTCu1ou.aspx?code=091lLe000FkyXW1Mmi300CrA512lLe0x&state=sojump\n━━━━━━━━━━━━━━\n💼 招聘岗位:全球培训生,工程技术培训生,销售培训生,运营培训生,研究开发(可提供博士后岗位)与技术咨询,设计研发工程师:电气|机械,项目管理&供应链管理工程师,销售支持工程师\n🏙 工作地点: 北京|上海|重庆|厦门|西安|合肥|大同|宿迁|中山\n👊 校招职位投递链接:https://hitachienergy.zhiye.com/campus/jobs?memory=%7B%7D&silence=1",
+      "inputRaw": "群公告\n📢 赢大疆Pocket4,拿培训生offer|世界500强能源外企，福布斯中国最佳ESG雇主【日立能源】（总部瑞士苏黎世）邀您参加线下宣讲会！\n🎁 培训生Offer+北京户口+超值大奖等你来拿！现场抽奖赢取 大疆 Pocket 4、罗技键鼠套装、拍立得 等惊喜好礼～\n━━━━━━━━━━━━━━\n🕒 宣讲时间\n 9月15日 :15：00–17:00\n📍 宣讲地点\n 厦门大学 · 航空航天学院\n🔗 宣讲报名链接\n https://v.wjx.cn/vm/hTCu1ou.aspx?code=091lLe000FkyXW1Mmi300CrA512lLe0x&state=sojump\n━━━━━━━━━━━━━━\n💼 招聘岗位：全球培训生、工程技术培训生，销售培训生，运营培训生，研究开发（可提供博士后岗位）与技术咨询，设计研发工程师：电气|机械、项目管理&供应链管理工程师、销售支持工程师\n🏙 工作地点： 北京｜上海｜重庆｜厦门｜西安｜合肥｜大同｜宿迁｜中山 \n👊 校招职位投递链接：https://hitachienergy.zhiye.com/campus/jobs?memory=%7B%7D&silence=1",
+      "status": "已确认",
+      "id": "4548ee7e-3322-45b0-93c5-a45540d1e559",
+      "createdAt": "2026-09-04T15:26:43.824Z",
+      "updatedAt": "2026-09-04T15:26:43.824Z",
+      "reminded": []
+    }
+  ]
+}
