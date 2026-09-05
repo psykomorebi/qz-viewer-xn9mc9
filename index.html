@@ -75,6 +75,8 @@
 
   <script>
     (function () {
+      // 内嵌数据模式：导出的 HTML 文件把数据直接写进页面，离线也能打开（无需联网）
+      const EMBEDDED = (typeof window.__EVENTS_DATA__ !== 'undefined') ? window.__EVENTS_DATA__ : null;
       // GitHub Pages 云端：读取同目录的 events.json，加时间戳绕过缓存
       const API = './events.json?t=' + Date.now();
       const TYPES = [['all','全部'],['interview','面试通知'],['presentation','宣讲会'],['signing','签约会'],['pending','待确认']];
@@ -93,17 +95,21 @@
       function todayStr(){ const d=new Date(); return d.getFullYear()+'-'+pad(d.getMonth()+1)+'-'+pad(d.getDate()); }
       function classify(e){ return e.type === 'interview' ? 'interview' : e.type === 'presentation' ? 'presentation' : e.type === 'signing' ? 'signing' : 'pending'; }
 
+      function applyData(data) {
+        allEvents = data.events || [];
+        const updated = data.updatedAt ? (' · 更新 ' + new Date(data.updatedAt).toLocaleString('zh-CN', { month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit' })) : '';
+        document.getElementById('sub').textContent = '共 ' + allEvents.length + ' 个事件' + updated;
+        const now = new Date();
+        curYear = now.getFullYear(); curMonth = now.getMonth(); selectedDate = todayStr();
+        buildTabs(); renderCal(); selectDay(selectedDate);
+      }
+
       async function load() {
         try {
+          if (EMBEDDED) { applyData(EMBEDDED); return; }
           const res = await fetch(API);
           if (!res.ok) throw new Error('HTTP ' + res.status);
-          const data = await res.json();
-          allEvents = data.events || [];
-          const updated = data.updatedAt ? (' · 更新 ' + new Date(data.updatedAt).toLocaleString('zh-CN', { month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit' })) : '';
-          document.getElementById('sub').textContent = '共 ' + allEvents.length + ' 个事件' + updated;
-          const now = new Date();
-          curYear = now.getFullYear(); curMonth = now.getMonth(); selectedDate = todayStr();
-          buildTabs(); renderCal(); selectDay(selectedDate);
+          applyData(await res.json());
         } catch (e) {
           document.getElementById('sub').textContent = '加载失败';
           document.getElementById('dayList').innerHTML = '<div class="err">数据加载失败<br>请在电脑端「设置 → GitHub 云同步」点击「立即同步」<br>GitHub Pages 发布约需 1 分钟，稍后下拉刷新本页即可</div>';
