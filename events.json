@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T09:40:56.510Z",
+  "updatedAt": "2026-09-05T09:41:20.214Z",
   "events": [
     {
       "type": "interview",
@@ -417,7 +417,7 @@
       "company": "好想来",
       "position": "",
       "date": "2026-09-05",
-      "startTime": "17:42",
+      "startTime": "17:43",
       "endTime": null,
       "partOfDay": null,
       "method": "未知",
@@ -452,14 +452,14 @@
       "status": "已确认",
       "id": "90836770-a0b7-485f-99a1-ac6507470498",
       "createdAt": "2026-09-05T09:30:09.243Z",
-      "updatedAt": "2026-09-05T09:40:55.002Z",
+      "updatedAt": "2026-09-05T09:41:18.707Z",
       "reminded": []
     }
   ],
   "settings": {
     "remindersEnabled": true,
     "leadTimesMinutes": [
-      2
+      1
     ]
   }
 }
