@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T09:42:27.319Z",
+  "updatedAt": "2026-09-05T09:44:14.604Z",
   "events": [
     {
       "type": "interview",
@@ -411,51 +411,6 @@
       "createdAt": "2026-09-04T15:26:43.824Z",
       "updatedAt": "2026-09-04T15:26:43.824Z",
       "reminded": []
-    },
-    {
-      "type": "presentation",
-      "company": "好想来",
-      "position": "",
-      "date": "2026-09-05",
-      "startTime": "17:45",
-      "endTime": null,
-      "partOfDay": null,
-      "method": "未知",
-      "platform": "",
-      "location": "",
-      "classroom": "",
-      "meetingUrl": "",
-      "links": [],
-      "meetingId": "",
-      "password": "",
-      "needRegister": "未知",
-      "registerDeadline": "",
-      "todos": [
-        "暂无明确待办"
-      ],
-      "warnings": [
-        {
-          "level": "warn",
-          "field": "location",
-          "message": "未识别到活动地点或线上链接"
-        }
-      ],
-      "lowConfFields": [
-        "company"
-      ],
-      "conf": {
-        "company": "低",
-        "date": "中"
-      },
-      "raw": "好想来宣讲会\n今天17;35开始",
-      "inputRaw": "好想来宣讲会\n今天17;35开始",
-      "status": "已确认",
-      "id": "90836770-a0b7-485f-99a1-ac6507470498",
-      "createdAt": "2026-09-05T09:30:09.243Z",
-      "updatedAt": "2026-09-05T09:42:25.809Z",
-      "reminded": [
-        "1788601320000"
-      ]
     }
   ],
   "settings": {
