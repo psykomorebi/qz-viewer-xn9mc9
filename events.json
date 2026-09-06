@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T09:44:14.604Z",
+  "updatedAt": "2026-09-06T04:05:55.782Z",
   "events": [
     {
       "type": "interview",
@@ -211,8 +211,10 @@
       "status": "已确认",
       "id": "2603d1d2-330f-45f6-b1c4-b0774eb499b8",
       "createdAt": "2026-09-04T13:38:12.823Z",
-      "updatedAt": "2026-09-04T13:38:12.823Z",
-      "reminded": []
+      "updatedAt": "2026-09-06T03:29:38.052Z",
+      "reminded": [
+        "1788665400000"
+      ]
     },
     {
       "type": "presentation",
@@ -411,12 +413,54 @@
       "createdAt": "2026-09-04T15:26:43.824Z",
       "updatedAt": "2026-09-04T15:26:43.824Z",
       "reminded": []
+    },
+    {
+      "type": "presentation",
+      "company": "晋华集成电路",
+      "position": "",
+      "date": "2026-09-09",
+      "startTime": "14:30",
+      "endTime": null,
+      "partOfDay": null,
+      "method": "线下",
+      "platform": "",
+      "location": "思明校区化学报告厅",
+      "classroom": "",
+      "meetingUrl": "",
+      "links": [],
+      "meetingId": "",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "携带纸质简历",
+        "加入微信群"
+      ],
+      "warnings": [],
+      "lowConfFields": [
+        "company"
+      ],
+      "conf": {
+        "company": "低",
+        "date": "高",
+        "startTime": "高",
+        "method": "高",
+        "location": "高",
+        "meetingUrl": "中"
+      },
+      "raw": "高新国有企业晋华集成电路27届校园招聘宣讲会一一 -厦门大学站来啦!\n宣讲时间:9月9日(周三)14:30\n宣讲地点:思明校区化学报告厅\n现场解读核心岗位发展,新人导师制与国企专属福利,HR现场答疑并接收纸质简历,宣讲当日同步开启面试环节,\n现场抽取千元好礼!\n工艺/研发/IC设计/整合/AI/制造等大量岗位等你投递,心动不如行动~\n网申链接: https://t.zhaopin.com/07Sh34\n进群 链接: https://t.zhaopin.com/07Skdw\n如果你不想再收到此类邮件,请点击这里退江",
+      "inputRaw": "高新国有企业晋华集成电路27届校园招聘宣讲会一一 -厦门大学站来啦！\n宣讲时间：9月9日(周三)14:30\n宣讲地点:思明校区化学报告厅\n·现场解读核心岗位发展、新人导师制与国企专属福利，HR现场答疑并接收纸质简历，宣讲当日同步开启面试环节，\n现场抽取千元好礼！\n·工艺/研发/IC设计/整合/AI/制造等大量岗位等你投递，心动不如行动~\n网申链接： https://t.zhaopin.com/07Sh34\n进 群 链 接： https://t.zhaopin.com/07Skdw\n如果你不想再收到此类邮件，请点击这里退江",
+      "status": "已确认",
+      "id": "1d14edea-b47f-4eea-9c3e-722f6675dde2",
+      "createdAt": "2026-09-06T04:05:54.263Z",
+      "updatedAt": "2026-09-06T04:05:54.263Z",
+      "reminded": []
     }
   ],
   "settings": {
     "remindersEnabled": true,
     "leadTimesMinutes": [
-      1
+      120
     ]
   }
 }
