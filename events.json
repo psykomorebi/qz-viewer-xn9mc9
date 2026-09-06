@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T04:05:55.782Z",
+  "updatedAt": "2026-09-06T09:49:33.186Z",
   "events": [
     {
       "type": "interview",
@@ -454,6 +454,44 @@
       "id": "1d14edea-b47f-4eea-9c3e-722f6675dde2",
       "createdAt": "2026-09-06T04:05:54.263Z",
       "updatedAt": "2026-09-06T04:05:54.263Z",
+      "reminded": []
+    },
+    {
+      "type": "presentation",
+      "company": "卫星集团",
+      "position": "",
+      "date": "2026-09-17",
+      "startTime": "14:30",
+      "endTime": "16:00",
+      "partOfDay": null,
+      "method": "线下",
+      "platform": "",
+      "location": "思明校区庄汉水楼",
+      "classroom": "",
+      "meetingUrl": "",
+      "links": [],
+      "meetingId": "",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "暂无明确待办"
+      ],
+      "warnings": [],
+      "lowConfFields": [],
+      "conf": {
+        "company": "高",
+        "date": "高",
+        "startTime": "高",
+        "method": "中",
+        "location": "高"
+      },
+      "raw": "卫星集团2027届校园招聘\n厦门大学(宣讲会)\n宣讲时间: 9月17日14:30-16:00\n宣讲地点: 思明校区庄汉水楼\n(南强二)101",
+      "inputRaw": "卫星集团2027届校园招聘\n厦门大学(宣讲会)\n宣讲时间： 9月17日14:30-16:00\n 宣讲地点： 思明校区庄汉水楼\n(南强二）101",
+      "status": "已确认",
+      "id": "f13863fd-e38c-4e65-843a-6fe9d9cfc967",
+      "createdAt": "2026-09-06T09:49:31.677Z",
+      "updatedAt": "2026-09-06T09:49:31.677Z",
       "reminded": []
     }
   ],
