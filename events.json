@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T09:14:27.052Z",
+  "updatedAt": "2026-09-07T10:13:01.417Z",
   "events": [
     {
       "type": "interview",
@@ -827,6 +827,48 @@
       "id": "0f889be7-a50c-4c50-b746-f1bcfc31630c",
       "createdAt": "2026-09-07T09:14:25.545Z",
       "updatedAt": "2026-09-07T09:14:25.545Z",
+      "reminded": []
+    },
+    {
+      "type": "interview",
+      "company": "晋华集成电路",
+      "position": "工艺工程师(泉州)",
+      "date": "2026-09-09",
+      "startTime": "14:30",
+      "endTime": null,
+      "partOfDay": null,
+      "method": "线上",
+      "platform": "腾讯会议",
+      "location": "",
+      "classroom": "",
+      "meetingUrl": "",
+      "links": [],
+      "meetingId": "33235459273",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "暂无明确待办"
+      ],
+      "warnings": [],
+      "lowConfFields": [
+        "position"
+      ],
+      "conf": {
+        "company": "高",
+        "date": "高",
+        "startTime": "高",
+        "position": "低",
+        "method": "高",
+        "platform": "高",
+        "meetingId": "高"
+      },
+      "raw": "庞志文武同学,你好:\n这里是福建省晋华集成电路有限公司人力资源部,很高兴邀请同学参加我司校园招聘面试,详细信息如下:\n面试岗位:工艺工程师(泉州)\n面试时间:2026-09-0914:30\n面试形式:腾讯会议视频面试\n会议号:33235459273",
+      "inputRaw": "庞志文武同学,你好：\n这里是福建省晋华集成电路有限公司人力资源部，很高兴邀请同学参加我司校园招聘面试，详细信息如下：\n面试岗位：工艺工程师(泉州)\n面试时间：2026-09-0914:30\n面试形式：腾讯会议视频面试\n会议号：33235459273",
+      "status": "已确认",
+      "id": "48cf407e-d2e1-47e9-bafd-fc619797a993",
+      "createdAt": "2026-09-07T10:12:59.906Z",
+      "updatedAt": "2026-09-07T10:12:59.906Z",
       "reminded": []
     }
   ],
