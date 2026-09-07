@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T09:09:25.021Z",
+  "updatedAt": "2026-09-07T09:14:27.052Z",
   "events": [
     {
       "type": "interview",
@@ -613,8 +613,10 @@
       "status": "已确认",
       "id": "9158d006-9bc0-45e0-ac0c-97e8c97ca405",
       "createdAt": "2026-09-07T02:56:04.314Z",
-      "updatedAt": "2026-09-07T02:56:04.314Z",
-      "reminded": []
+      "updatedAt": "2026-09-07T09:09:53.548Z",
+      "reminded": [
+        "1788772200000"
+      ]
     },
     {
       "type": "presentation",
@@ -781,6 +783,50 @@
       "id": "785cbc1a-9a0c-4ae7-a4de-27382ea9a190",
       "createdAt": "2026-09-07T09:09:23.514Z",
       "updatedAt": "2026-09-07T09:09:23.514Z",
+      "reminded": []
+    },
+    {
+      "type": "presentation",
+      "company": "荣耀",
+      "position": "",
+      "date": "2026-09-09",
+      "startTime": "18:30",
+      "endTime": null,
+      "partOfDay": null,
+      "method": "线下",
+      "platform": "",
+      "location": "思明校区群贤102",
+      "classroom": "",
+      "meetingUrl": "https://v.wjx.cn/vm/YfvW7PZ.aspx#",
+      "links": [
+        {
+          "label": "报名链接",
+          "url": "https://v.wjx.cn/vm/YfvW7PZ.aspx#"
+        }
+      ],
+      "meetingId": "",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "携带纸质简历"
+      ],
+      "warnings": [],
+      "lowConfFields": [],
+      "conf": {
+        "company": "高",
+        "date": "高",
+        "startTime": "高",
+        "method": "高",
+        "location": "高",
+        "meetingUrl": "中"
+      },
+      "raw": "同学您好:\n感谢您对荣耀招聘的关注!诚邀您参加厦门大学专场宣讲会,点击链接即可报名:\nhttps://v.wjx.cn/vm/YfvW7PZ.aspx#\n时间:2026年9月9日(周三)18:30\n地点:思明校区群贤102\n>面试机会:携带纸质简历与HR交流,交流匹配即有机会解锁【面试直通卡】\n>职业交流:与专家面对面,获取最新校招岗位信息与面试流程\n>技术体验: 近距离接触全球首款机器人手机Robot Phone 等前沿科技产品\n>互动好礼:参与现场打卡或社媒分享,即有机会领取精美周边及参与抽奖\n贴膜服务:现场提供手机免费贴膜服务",
+      "inputRaw": "同学您好：\n感谢您对荣耀招聘的关注！诚邀您参加厦门大学专场宣讲会，点击链接即可报名：\nhttps://v.wjx.cn/vm/YfvW7PZ.aspx#\n时间：2026年9月9日(周三)18:30\n地点:思明校区群贤102\n到场福利：\n>面试机会：携带纸质简历与HR交流，交流匹配即有机会解锁【面试直通卡】\n>职业交流：与专家面对面，获取最新校招岗位信息与面试流程\n>技术体验： 近距离接触全球首款机器人手机Robot Phone 等前沿科技产品\n>互动好礼：参与现场打卡或社媒分享，即有机会领取精美周边及参与抽奖\n贴膜服务：现场提供手机免费贴膜服务",
+      "status": "已确认",
+      "id": "0f889be7-a50c-4c50-b746-f1bcfc31630c",
+      "createdAt": "2026-09-07T09:14:25.545Z",
+      "updatedAt": "2026-09-07T09:14:25.545Z",
       "reminded": []
     }
   ],
