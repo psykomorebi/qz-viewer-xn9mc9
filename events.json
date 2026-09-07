@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T02:38:09.723Z",
+  "updatedAt": "2026-09-07T02:56:05.826Z",
   "events": [
     {
       "type": "interview",
@@ -574,6 +574,44 @@
       "id": "064c0e01-5ac7-4d12-9c72-ec3495656827",
       "createdAt": "2026-09-07T02:38:08.207Z",
       "updatedAt": "2026-09-07T02:38:08.207Z",
+      "reminded": []
+    },
+    {
+      "type": "presentation",
+      "company": "苏州锦艺新材",
+      "position": "",
+      "date": "2026-09-07",
+      "startTime": "19:10",
+      "endTime": "21:00",
+      "partOfDay": null,
+      "method": "线下",
+      "platform": "",
+      "location": "思明-庄汉水楼(南强二）204",
+      "classroom": "",
+      "meetingUrl": "",
+      "links": [],
+      "meetingId": "",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "暂无明确待办"
+      ],
+      "warnings": [],
+      "lowConfFields": [],
+      "conf": {
+        "company": "高",
+        "date": "高",
+        "startTime": "高",
+        "method": "高",
+        "location": "高"
+      },
+      "raw": "庞志斌同学您好,感谢您网申我公司校招岗位!诚激您参加【厦门站/厦门大学】校园宣\n讲会,现场将带来:\n公司介绍与发展前景\n校招生专项培养体系\n现场面对面交流互动\n宣讲会时间及地点信息\n9月7日\n厦门大学19:10-21:00 庄汉水楼(南强二)204",
+      "inputRaw": "庞志斌同学您好，感谢您网申我公司校招岗位！诚激您参加【厦门站/厦门大学】校园宣\n讲会，现场将带来:\n公司介绍与发展前景\n校招生专项培养体系\n\n现场面对面交流互动\n 宣讲会时间及地点信息\n9月7日\n厦门大学19:10-21:00 庄汉水楼(南强二）204",
+      "status": "已确认",
+      "id": "9158d006-9bc0-45e0-ac0c-97e8c97ca405",
+      "createdAt": "2026-09-07T02:56:04.314Z",
+      "updatedAt": "2026-09-07T02:56:04.314Z",
       "reminded": []
     }
   ],
