@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T09:49:33.186Z",
+  "updatedAt": "2026-09-07T01:45:08.034Z",
   "events": [
     {
       "type": "interview",
@@ -169,8 +169,10 @@
       "status": "已确认",
       "id": "39d357dc-2263-4860-a675-4dcf1156761f",
       "createdAt": "2026-09-04T13:37:18.130Z",
-      "updatedAt": "2026-09-04T13:37:18.130Z",
-      "reminded": []
+      "updatedAt": "2026-09-07T01:29:49.983Z",
+      "reminded": [
+        "1788744600000"
+      ]
     },
     {
       "type": "interview",
@@ -492,6 +494,48 @@
       "id": "f13863fd-e38c-4e65-843a-6fe9d9cfc967",
       "createdAt": "2026-09-06T09:49:31.677Z",
       "updatedAt": "2026-09-06T09:49:31.677Z",
+      "reminded": []
+    },
+    {
+      "type": "presentation",
+      "company": "江波龙",
+      "position": "",
+      "date": "2026-09-17",
+      "startTime": "14:30",
+      "endTime": null,
+      "partOfDay": null,
+      "method": "线下",
+      "platform": "",
+      "location": "翔安校区 学武楼(1号楼)C105",
+      "classroom": "",
+      "meetingUrl": "",
+      "links": [],
+      "meetingId": "",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "暂无明确待办"
+      ],
+      "warnings": [
+        {
+          "level": "error",
+          "field": "date",
+          "message": "未识别到活动日期，请查看原通知确认"
+        }
+      ],
+      "lowConfFields": [],
+      "conf": {
+        "startTime": "高",
+        "method": "高",
+        "location": "高"
+      },
+      "raw": "江波龙\n2027届厦门大学\n校园宣讲来啦\n招聘\n9.17号\n14:30\n翔安校区学武楼(1号楼)C105",
+      "inputRaw": "江波龙\n2027届厦门大学\n校园 宣讲来啦\n招聘 \n9.17号  \n14:30\n翔安校区学武楼（1号楼)C105",
+      "status": "已确认",
+      "id": "53b34d30-a392-4e19-9379-873e642ff70d",
+      "createdAt": "2026-09-07T01:45:06.529Z",
+      "updatedAt": "2026-09-07T01:45:06.529Z",
       "reminded": []
     }
   ],
