@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T04:25:15.664Z",
+  "updatedAt": "2026-09-07T09:02:33.723Z",
   "events": [
     {
       "type": "interview",
@@ -253,8 +253,10 @@
       "status": "已确认",
       "id": "458f2078-c41b-447c-bb75-acd4ad028890",
       "createdAt": "2026-09-04T14:40:05.872Z",
-      "updatedAt": "2026-09-04T14:45:06.993Z",
-      "reminded": []
+      "updatedAt": "2026-09-07T04:29:40.071Z",
+      "reminded": [
+        "1788755400000"
+      ]
     },
     {
       "type": "signing",
@@ -688,6 +690,58 @@
       "id": "b822bd01-deb8-4cf1-8af9-97363d097e14",
       "createdAt": "2026-09-07T04:25:14.147Z",
       "updatedAt": "2026-09-07T04:25:14.147Z",
+      "reminded": []
+    },
+    {
+      "type": "interview",
+      "company": "慧联集团-厦门",
+      "position": "储备干部(研发)",
+      "date": "2026-09-09",
+      "startTime": "11:00",
+      "endTime": null,
+      "partOfDay": null,
+      "method": "线上",
+      "platform": "钉钉",
+      "location": "",
+      "classroom": "",
+      "meetingUrl": "https://meeting.dingtalk.com/j/NJsysHBc8t0",
+      "links": [
+        {
+          "label": "会议链接",
+          "url": "https://meeting.dingtalk.com/j/NJsysHBc8t0"
+        }
+      ],
+      "meetingId": "",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "暂无明确待办"
+      ],
+      "warnings": [
+        {
+          "level": "error",
+          "field": "company",
+          "message": "未识别到企业名称"
+        }
+      ],
+      "lowConfFields": [
+        "position"
+      ],
+      "conf": {
+        "date": "高",
+        "startTime": "高",
+        "position": "低",
+        "method": "高",
+        "platform": "高",
+        "meetingUrl": "中"
+      },
+      "raw": "很高兴通知你,你已进入慧联 2027 届校园招聘面试环节!面试安排如下,请仔细阅读:\n一,面试信息\n应聘岗位:储备干部(研发)\n面试时间:2026年9月7日(周一)11:30\n面试形式:线上视频面试(钉钉会议)\n入会链接:https://meeting.dingtalk.com/j/0BX3H3ujb5N\n二,面试流程(预计总时长约 30 分钟)",
+      "inputRaw": "很高兴通知你,你已进入慧联 2027 届校园招聘面试环节!面试安排如下,请仔细阅读:\n一、面试信息\n应聘岗位：储备干部（研发）\n面试时间:2026年9月7日（周一）11:30\n面试形式:线上视频面试(钉钉会议)\n入会链接:https://meeting.dingtalk.com/j/0BX3H3ujb5N\n二、面试流程(预计总时长约 30 分钟)",
+      "status": "已确认",
+      "id": "8838be1f-3d74-421f-b834-ce0a981660fe",
+      "createdAt": "2026-09-07T09:02:32.209Z",
+      "updatedAt": "2026-09-07T09:02:32.209Z",
       "reminded": []
     }
   ],
