@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T11:58:39.304Z",
+  "updatedAt": "2026-09-07T11:59:16.511Z",
   "events": [
     {
       "type": "interview",
@@ -993,6 +993,48 @@
       "id": "3904a8ca-faba-48b7-a75e-a494c5b947ac",
       "createdAt": "2026-09-07T11:58:37.790Z",
       "updatedAt": "2026-09-07T11:58:37.790Z",
+      "reminded": []
+    },
+    {
+      "type": "interview",
+      "company": "宁德时代",
+      "position": "线下面试9.16-9.18",
+      "date": "2026-09-16",
+      "startTime": null,
+      "endTime": null,
+      "partOfDay": null,
+      "method": "线下",
+      "platform": "",
+      "location": "翔安校区 国际交流中心三楼报告厅",
+      "classroom": "",
+      "meetingUrl": "",
+      "links": [],
+      "meetingId": "",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "暂无明确待办"
+      ],
+      "warnings": [
+        {
+          "level": "warn",
+          "field": "startTime",
+          "message": "未识别到具体面试时间，请查看原通知确认"
+        }
+      ],
+      "lowConfFields": [],
+      "conf": {
+        "company": "中",
+        "date": "高",
+        "method": "高"
+      },
+      "raw": "线下面试时间:9月16日-9月18日",
+      "inputRaw": "宁德时代宣讲会时间：9且15日 (星期二)19:00-21:00翔安校区国际交流中心三楼报告厅\n\n线下面试时间：9月16日-9月18日\n签约会时间：9月16日-9月18日",
+      "status": "已确认",
+      "id": "92d33950-c1aa-4314-97c8-027d587b1d3c",
+      "createdAt": "2026-09-07T11:59:14.996Z",
+      "updatedAt": "2026-09-07T11:59:14.996Z",
       "reminded": []
     }
   ],
