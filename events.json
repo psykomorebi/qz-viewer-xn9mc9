@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T09:02:33.723Z",
+  "updatedAt": "2026-09-07T09:09:25.021Z",
   "events": [
     {
       "type": "interview",
@@ -742,6 +742,45 @@
       "id": "8838be1f-3d74-421f-b834-ce0a981660fe",
       "createdAt": "2026-09-07T09:02:32.209Z",
       "updatedAt": "2026-09-07T09:02:32.209Z",
+      "reminded": []
+    },
+    {
+      "type": "presentation",
+      "company": "深南电路",
+      "position": "",
+      "date": "2026-09-17",
+      "startTime": "19:10",
+      "endTime": "21:00",
+      "partOfDay": null,
+      "method": "线下",
+      "platform": "",
+      "location": "思明校区-庄汉水楼(南强二)101",
+      "classroom": "",
+      "meetingUrl": "",
+      "links": [],
+      "meetingId": "",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "暂无明确待办"
+      ],
+      "warnings": [],
+      "lowConfFields": [],
+      "conf": {
+        "company": "高",
+        "date": "高",
+        "startTime": "高",
+        "method": "高",
+        "location": "高",
+        "meetingUrl": "中"
+      },
+      "raw": "上市国企-深南电路27届厦门大学秋招线下宣讲会来袭!!!\n全球PCB企业TOP4·中国电子电路行业协会理事长单位·年营收超两百亿\n不校招生专属晋升/调薪/培养通道\n宣讲会时间:2026-09-17(周四) 19:10-21:00\n宣讲会地点:厦门大学-思明校区-庄汉水楼(南强二)101\n2400+需求,研发技术类,智能制造类,市场客户类,职能类,博士岗位等诸多岗位供你选\n择.\n网申链接: https://scc.zhiye.com/campus/jobs\n更多详情,请关注“深南电路招聘”公众号",
+      "inputRaw": "上市国企-深南电路27届厦门大学秋招线下宣讲会来袭!！！\n全球PCB企业TOP4·中国电子电路行业协会理事长单位·年营收超两百亿\n不校招生专属晋升/调薪/培养通道\n乔福利宿舍/福利食堂/六险一金\n节日福利/各类补贴/带薪年假，工作地点:深圳、广州、无锡、南通、成都、上海、泰国\n宣讲会时间：2026-09-17(周四) 19:10-21:00\n宣讲会地点:厦门大学-思明校区-庄汉水楼(南强二)101\n2400+需求，研发技术类、智能制造类、市场客户类、职能类、博士岗位等诸多岗位供你选\n择。\n网申链接： https://scc.zhiye.com/campus/jobs\n更多详情，请关注“深南电路招聘”公众号\n期待您的加入，共创心芯家园！",
+      "status": "已确认",
+      "id": "785cbc1a-9a0c-4ae7-a4de-27382ea9a190",
+      "createdAt": "2026-09-07T09:09:23.514Z",
+      "updatedAt": "2026-09-07T09:09:23.514Z",
       "reminded": []
     }
   ],
