@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T10:13:01.417Z",
+  "updatedAt": "2026-09-07T11:15:19.044Z",
   "events": [
     {
       "type": "interview",
@@ -43,6 +43,92 @@
       "id": "7c4bab7d-42ce-4316-a8d4-b26b0a74fb38",
       "createdAt": "2026-09-04T14:40:05.872Z",
       "updatedAt": "2026-09-04T14:40:05.872Z",
+      "reminded": []
+    },
+    {
+      "type": "presentation",
+      "company": "晶丰明源",
+      "position": "",
+      "date": "2026-09-08",
+      "startTime": "14:00",
+      "endTime": null,
+      "partOfDay": null,
+      "startDateTime": "2026-09-08T14:00",
+      "method": "线下",
+      "platform": "",
+      "location": "翔安校区国际学术交流中心(二楼 9-10 号会议室)",
+      "classroom": "",
+      "meetingUrl": "",
+      "links": [],
+      "meetingId": "",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "暂无明确待办"
+      ],
+      "warnings": [],
+      "lowConfFields": [
+        "company"
+      ],
+      "conf": {
+        "company": "低",
+        "date": "高",
+        "startTime": "高",
+        "method": "中",
+        "location": "高"
+      },
+      "raw": "晶丰明源宣讲会信息\n时间:2026 年 9 月 8 日 (明日)14:00\n地点:厦门大学翔安校区国际学术交流中心(二楼 9-10 号会议室)\n晶丰明源",
+      "inputRaw": "晶丰明源 宣讲会信息\n时间：2026 年 9 月 8 日 （明日）14:00\n地点：厦门大学翔安校区国际学术交流中心（二楼 9-10 号会议室）\n\n晶丰明源 现场面试\n- 到场同学均可领取校招定制小礼物\n- 研发岗：宣讲结束后现场笔试\n- 技术销售岗：宣讲结束后直接现场面试\n-职能&平台岗位：现场收的简历直接带给业务面试官，两周内安排面试\n\n欢迎各位同学到场交流，抓住直通面试机会，携手投身半导体国产替代浪潮！",
+      "status": "已确认",
+      "id": "3c2f0b50-0549-48f5-9472-4aa1385f44c9",
+      "createdAt": "2026-09-07T11:15:17.528Z",
+      "updatedAt": "2026-09-07T11:15:17.528Z",
+      "reminded": []
+    },
+    {
+      "type": "interview",
+      "company": "晶丰明源",
+      "position": "现场笔试/面试",
+      "date": "2026-09-08",
+      "startTime": "宣讲会结束后",
+      "endTime": null,
+      "partOfDay": null,
+      "startDateTime": "2026-09-08T宣讲会结束后",
+      "method": "线下",
+      "platform": "",
+      "location": "翔安校区国际学术交流中心(二楼 9-10 号会议室)",
+      "classroom": "",
+      "meetingUrl": "",
+      "links": [],
+      "meetingId": "",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "暂无明确待办"
+      ],
+      "warnings": [
+        {
+          "level": "warn",
+          "field": "startTime",
+          "message": "未识别到具体面试时间，请查看原通知确认"
+        }
+      ],
+      "lowConfFields": [
+        "position"
+      ],
+      "conf": {
+        "company": "高",
+        "position": "低",
+        "method": "高"
+      },
+      "raw": "现场面试\n- 到场同学均可领取校招定制小礼物\n- 研发岗:宣讲结束后现场笔试\n- 技术销售岗:宣讲结束后直接现场面试\n-职能&平台岗位:现场收的简历直接带给业务面试官,两周内安排面试\n欢迎各位同学到场交流,抓住直通面试机会,携手投身半导体国产替代浪潮!",
+      "inputRaw": "晶丰明源 宣讲会信息\n时间：2026 年 9 月 8 日 （明日）14:00\n地点：厦门大学翔安校区国际学术交流中心（二楼 9-10 号会议室）\n\n晶丰明源 现场面试\n- 到场同学均可领取校招定制小礼物\n- 研发岗：宣讲结束后现场笔试\n- 技术销售岗：宣讲结束后直接现场面试\n-职能&平台岗位：现场收的简历直接带给业务面试官，两周内安排面试\n\n欢迎各位同学到场交流，抓住直通面试机会，携手投身半导体国产替代浪潮！",
+      "status": "已确认",
+      "id": "17570d37-b812-458c-ba4c-f6340279be16",
+      "createdAt": "2026-09-07T11:15:17.528Z",
+      "updatedAt": "2026-09-07T11:15:17.528Z",
       "reminded": []
     },
     {
