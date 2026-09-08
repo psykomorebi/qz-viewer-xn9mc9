@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T11:20:02.308Z",
+  "updatedAt": "2026-09-08T11:26:42.224Z",
   "events": [
     {
       "type": "interview",
@@ -131,6 +131,87 @@
       "id": "17570d37-b812-458c-ba4c-f6340279be16",
       "createdAt": "2026-09-07T11:15:17.528Z",
       "updatedAt": "2026-09-07T11:15:17.528Z",
+      "reminded": []
+    },
+    {
+      "type": "presentation",
+      "company": "中华蓝天集团",
+      "position": "",
+      "date": "2026-09-16",
+      "startTime": "14:30",
+      "endTime": "16:00",
+      "partOfDay": null,
+      "startDateTime": "2026-09-16T14:30",
+      "method": "线下",
+      "platform": "",
+      "location": "学武楼(1号楼)C105",
+      "classroom": "",
+      "meetingUrl": "",
+      "links": [],
+      "meetingId": "",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "暂无明确待办"
+      ],
+      "warnings": [],
+      "lowConfFields": [],
+      "conf": {
+        "company": "高",
+        "date": "高",
+        "startTime": "高",
+        "method": "中",
+        "location": "高"
+      },
+      "raw": "中华蓝天集团\n宣讲会时间:9月16日(周三)14:30-16:00,\n宣讲会地点:学武楼(1号楼)C105",
+      "inputRaw": "中华蓝天集团\n宣讲会时间：9月16日（周三）14:30-16:00，\n宣讲会地点：学武楼（1号楼）C105\n线下面试时间：9月16日（周三）16:00\n线下面试地点：学武楼（1号楼）C105\n面试岗位星火计划工程师（产业、业务、中试放大）",
+      "status": "已确认",
+      "id": "eb307fa4-5a26-4cd5-ad61-16c25eec174d",
+      "createdAt": "2026-09-08T11:26:40.708Z",
+      "updatedAt": "2026-09-08T11:26:40.708Z",
+      "reminded": []
+    },
+    {
+      "type": "interview",
+      "company": "中华蓝天集团",
+      "position": "星火计划工程师(产业、业务、中试放大）",
+      "date": "2026-09-16",
+      "startTime": "16:00",
+      "endTime": null,
+      "partOfDay": null,
+      "startDateTime": "2026-09-16T16:00",
+      "method": "线下",
+      "platform": "",
+      "location": "学武楼(1号楼)C105",
+      "classroom": "",
+      "meetingUrl": "",
+      "links": [],
+      "meetingId": "",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "暂无明确待办"
+      ],
+      "warnings": [],
+      "lowConfFields": [
+        "position"
+      ],
+      "conf": {
+        "company": "中",
+        "date": "高",
+        "startTime": "高",
+        "position": "低",
+        "method": "高",
+        "location": "高"
+      },
+      "raw": "线下面试时间:9月16日(周三)16:00\n线下面试地点:学武楼(1号楼)C105\n面试岗位星火计划工程师(产业,业务,中试放大)",
+      "inputRaw": "中华蓝天集团\n宣讲会时间：9月16日（周三）14:30-16:00，\n宣讲会地点：学武楼（1号楼）C105\n线下面试时间：9月16日（周三）16:00\n线下面试地点：学武楼（1号楼）C105\n面试岗位星火计划工程师（产业、业务、中试放大）",
+      "status": "已确认",
+      "id": "15dbb7d6-3db6-413f-a751-a3d54f645ca3",
+      "createdAt": "2026-09-08T11:26:40.708Z",
+      "updatedAt": "2026-09-08T11:26:40.708Z",
       "reminded": []
     },
     {
