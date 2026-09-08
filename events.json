@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T13:21:47.174Z",
+  "updatedAt": "2026-09-08T11:13:10.177Z",
   "events": [
     {
       "type": "interview",
@@ -83,8 +83,10 @@
       "status": "已确认",
       "id": "3c2f0b50-0549-48f5-9472-4aa1385f44c9",
       "createdAt": "2026-09-07T11:15:17.528Z",
-      "updatedAt": "2026-09-07T11:15:17.528Z",
-      "reminded": []
+      "updatedAt": "2026-09-08T03:59:54.392Z",
+      "reminded": [
+        "1788840000000"
+      ]
     },
     {
       "type": "interview",
@@ -1077,13 +1079,55 @@
       "createdAt": "2026-09-07T11:59:36.769Z",
       "updatedAt": "2026-09-07T11:59:36.769Z",
       "reminded": []
+    },
+    {
+      "type": "interview",
+      "company": "永芯科技(北京)",
+      "position": "工艺工程师",
+      "date": "2026-09-10",
+      "startTime": "10:40",
+      "endTime": null,
+      "partOfDay": null,
+      "method": "线上",
+      "platform": "腾讯会议",
+      "location": "https:// meetinq.tencent.com/dm/Y40N29huUcVf",
+      "classroom": "",
+      "meetingUrl": "",
+      "links": [],
+      "meetingId": "461452335",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "暂无明确待办"
+      ],
+      "warnings": [],
+      "lowConfFields": [
+        "position"
+      ],
+      "conf": {
+        "company": "高",
+        "date": "高",
+        "startTime": "高",
+        "position": "低",
+        "method": "高",
+        "platform": "高",
+        "location": "高",
+        "meetingUrl": "中"
+      },
+      "raw": "感谢您对永芯科技(北京)有限公司的关注.很高兴收到您的简历,现邀请您就工艺工程\n职位进行一次面试.\n面试目期:2026-09-10周四\n面试时间:10:40\n面试方式: 视频面试\n会议信息\n您可以通过如下方式参与视频面试\n面试地址: https:// meetinq.tencent.com/dm/Y40N29huUcVf\n腾讯会议ID:461452335",
+      "inputRaw": "感谢您对永芯科技(北京)有限公司的关注。很高兴收到您的简历，现邀请您就工艺工程\n职位进行一次面试。\n面试目期：2026-09-10周四\n面试时间：10:40\n面试方式: 视频面试\n会议信息\n您可以通过如下方式参与视频面试\n面试地址: https:// meetinq.tencent.com/dm/Y40N29huUcVf\n腾讯会议ID:461452335",
+      "status": "已确认",
+      "id": "0f15d140-a45b-4c0b-b5ac-2c087179e9bf",
+      "createdAt": "2026-09-08T11:13:08.667Z",
+      "updatedAt": "2026-09-08T11:13:08.667Z",
+      "reminded": []
     }
   ],
   "settings": {
     "remindersEnabled": true,
     "leadTimesMinutes": [
-      1440,
-      60
+      120
     ]
   }
 }
