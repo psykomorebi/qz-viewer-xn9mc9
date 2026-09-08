@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T11:26:42.224Z",
+  "updatedAt": "2026-09-08T11:40:31.054Z",
   "events": [
     {
       "type": "interview",
@@ -1162,6 +1162,50 @@
       "id": "0f15d140-a45b-4c0b-b5ac-2c087179e9bf",
       "createdAt": "2026-09-08T11:13:08.667Z",
       "updatedAt": "2026-09-08T11:13:08.667Z",
+      "reminded": []
+    },
+    {
+      "type": "interview",
+      "company": "欣旺达",
+      "position": "",
+      "date": "2026-09-12",
+      "startTime": null,
+      "endTime": null,
+      "partOfDay": null,
+      "method": "线下",
+      "platform": "",
+      "location": "",
+      "classroom": "",
+      "meetingUrl": "",
+      "links": [],
+      "meetingId": "",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "暂无明确待办"
+      ],
+      "warnings": [
+        {
+          "level": "error",
+          "field": "date",
+          "message": "未识别到具体面试日期，请查看原通知确认"
+        }
+      ],
+      "lowConfFields": [
+        "position"
+      ],
+      "conf": {
+        "company": "高",
+        "position": "低",
+        "method": "高"
+      },
+      "raw": "欣旺达线下面试:9.12号",
+      "inputRaw": "欣旺达线下面试：9.12号",
+      "status": "已确认",
+      "id": "c0a5a8eb-c7b8-4ac0-9575-14ce1ef9069e",
+      "createdAt": "2026-09-08T11:40:29.542Z",
+      "updatedAt": "2026-09-08T11:40:29.542Z",
       "reminded": []
     }
   ],
