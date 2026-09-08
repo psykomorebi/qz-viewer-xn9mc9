@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T11:40:31.054Z",
+  "updatedAt": "2026-09-08T11:59:32.287Z",
   "events": [
     {
       "type": "interview",
@@ -1206,6 +1206,48 @@
       "id": "c0a5a8eb-c7b8-4ac0-9575-14ce1ef9069e",
       "createdAt": "2026-09-08T11:40:29.542Z",
       "updatedAt": "2026-09-08T11:40:29.542Z",
+      "reminded": []
+    },
+    {
+      "type": "presentation",
+      "company": "远景能源",
+      "position": "",
+      "date": "2026-09-10",
+      "startTime": "19:10",
+      "endTime": "21:00",
+      "partOfDay": null,
+      "method": "线下",
+      "platform": "",
+      "location": "学武楼(1号楼)A201",
+      "classroom": "",
+      "meetingUrl": "",
+      "links": [],
+      "meetingId": "",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "暂无明确待办"
+      ],
+      "warnings": [
+        {
+          "level": "warn",
+          "field": "location",
+          "message": "未识别到活动地点或线上链接"
+        }
+      ],
+      "lowConfFields": [],
+      "conf": {
+        "date": "高",
+        "startTime": "高",
+        "method": "高"
+      },
+      "raw": "远景能源\n9月10号\n19:10-21:00在学武楼(1号楼)A201举行线下宣讲会",
+      "inputRaw": "远景能源\n9月10号\n19:10-21:00在学武楼(1号楼)A201举行线下宣讲会",
+      "status": "已确认",
+      "id": "217658dd-8b56-48f9-a98a-2033f6ebf181",
+      "createdAt": "2026-09-08T11:59:30.772Z",
+      "updatedAt": "2026-09-08T11:59:30.772Z",
       "reminded": []
     }
   ],
