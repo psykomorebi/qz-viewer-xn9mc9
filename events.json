@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T11:13:10.177Z",
+  "updatedAt": "2026-09-08T11:20:02.308Z",
   "events": [
     {
       "type": "interview",
@@ -345,46 +345,6 @@
       "reminded": [
         "1788755400000"
       ]
-    },
-    {
-      "type": "signing",
-      "company": "新能安",
-      "position": "",
-      "date": "2026-09-09",
-      "startTime": null,
-      "endTime": null,
-      "partOfDay": null,
-      "method": "线下",
-      "platform": "",
-      "location": "以签约通知邮件为准",
-      "classroom": "",
-      "meetingUrl": "",
-      "links": [],
-      "meetingId": "",
-      "password": "",
-      "needRegister": "未知",
-      "registerDeadline": "",
-      "todos": [
-        "暂无明确待办"
-      ],
-      "warnings": [],
-      "lowConfFields": [
-        "location"
-      ],
-      "conf": {
-        "company": "中",
-        "date": "高",
-        "method": "高",
-        "location": "低",
-        "meetingUrl": "中"
-      },
-      "raw": "3️⃣9月9日签约会——地点以签约通知邮件为准\n*研发大佬亲临现场\n*精美礼品现场派送(大疆运动相机,B站年度大会员,wakuku惊喜盲盒,神秘文创等)\n*极具吸引力薪酬现场公布\n本科:20-32W\n硕士:22-55W\n博士:45W+起...\n👉🏻工作地点:厦门\n👉🏻专业方向:化学类,电气类,自动化类,动力工程类,计算机类,控制类,电子类,机械工程类,材料类等相关专业\n👉🏻更多岗位&网申链接:https://mp.weixin.qq.com/s/eGRZhO91cdkew0U_0rnwNg\n👉🏻校招行程信息在“Ampace新能安招聘”公众号实时公布,欢迎关注!\n👉🏻厦大专属内推码:【lcitjm】",
-      "inputRaw": "[烟花]Ampace新能安2027秋招宣讲会来了！[烟花]\n1️⃣9月7日 宣讲会\n翔安校区-能源学院和木楼A221  14:30-16:30\n思明校区-克立楼三楼报告厅 19:00-21:00\n2️⃣9月8日 现场面试——地点以面试通知邮件为准\n3️⃣9月9日 签约会——地点以签约通知邮件为准\n\n*研发大佬亲临现场\n*精美礼品现场派送（大疆运动相机、B站年度大会员、wakuku惊喜盲盒、神秘文创等）\n*极具吸引力薪酬现场公布\n        本科：20-32W\n        硕士：22-55W\n        博士：45W+起...     \n更有免费公寓式单人间/套间、自助食堂、健身房、活动中心、带薪年假、团建旅游等福利！\n\n👉🏻工作地点：厦门\n👉🏻专业方向：化学类、电气类、自动化类、动力工程类、计算机类、控制类、电子类、机械工程类、材料类等相关专业\n👉🏻更多岗位&网申链接：https://mp.weixin.qq.com/s/eGRZhO91cdkew0U_0rnwNg\n👉🏻校招行程信息在“Ampace新能安招聘”公众号实时公布，欢迎关注！\n👉🏻厦大专属内推码：【lcitjm】",
-      "status": "已确认",
-      "id": "448670e8-3a58-4b30-b325-ca3d50a7cddf",
-      "createdAt": "2026-09-04T14:40:05.872Z",
-      "updatedAt": "2026-09-04T15:57:57.062Z",
-      "reminded": []
     },
     {
       "type": "presentation",
