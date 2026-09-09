@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T11:01:38.602Z",
+  "updatedAt": "2026-09-09T11:01:59.596Z",
   "events": [
     {
       "type": "interview",
@@ -1454,6 +1454,45 @@
       "id": "39bfbc3b-2571-4ac4-a026-c97960290388",
       "createdAt": "2026-09-09T08:24:55.794Z",
       "updatedAt": "2026-09-09T08:24:55.794Z",
+      "reminded": []
+    },
+    {
+      "type": "presentation",
+      "company": "长鑫存储",
+      "position": "",
+      "date": "2026-09-10",
+      "startTime": "19:10",
+      "endTime": null,
+      "partOfDay": null,
+      "method": "线下",
+      "platform": "",
+      "location": "翔安校区学武楼(1号楼)A204",
+      "classroom": "",
+      "meetingUrl": "",
+      "links": [],
+      "meetingId": "",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "暂无明确待办"
+      ],
+      "warnings": [],
+      "lowConfFields": [],
+      "conf": {
+        "company": "高",
+        "date": "高",
+        "startTime": "高",
+        "method": "高",
+        "location": "高",
+        "meetingUrl": "中"
+      },
+      "raw": "长鑫存储2027届全球校招已启动,7大岗位类别,100+职位,合肥/北京/上海/西安/日本多地可选.\n宣讲会\n时间:9月10日19点10分\n地点:翔安校区学武楼(1号楼)A204\n二\n一 -键投递, 直达网申: https://cxmt.zhiye.com/campus/jobs?memory=%7B%7D&silence=1\n扫描海报二维码,即可抢先报名.现场干货满满,更有超多精美礼品等你来拿!欢迎同学们现场交流,与顶尖人才同行,挑战技\n术无人区.主场已就位——加入长鑫,共享无限末来!",
+      "inputRaw": "长鑫存储2027届全球校招已启动，7大岗位类别、100+职位，合肥/北京/上海/西安/日本多地可选。\n宣讲会\n时间：9月10日19点10分\n 地点：翔安校区学武楼(1号楼)A204\n二\n 一 -键投递， 直达网申： https://cxmt.zhiye.com/campus/jobs?memory=%7B%7D&silence=1\n扫描海报二维码，即可抢先报名。现场干货满满，更有超多精美礼品等你来拿！欢迎同学们现场交流，与顶尖人才同行，挑战技\n术无人区。主场已就位——加入长鑫，共享无限末来！",
+      "status": "已确认",
+      "id": "a26d5109-f9ed-48df-a166-de15ec00a6f7",
+      "createdAt": "2026-09-09T11:01:58.091Z",
+      "updatedAt": "2026-09-09T11:01:58.091Z",
       "reminded": []
     }
   ],
