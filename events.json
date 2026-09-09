@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T07:06:35.318Z",
+  "updatedAt": "2026-09-09T08:19:43.687Z",
   "events": [
     {
       "type": "interview",
@@ -1333,6 +1333,43 @@
       "id": "40284f8a-a761-4f37-9110-0c9e6bdefacf",
       "createdAt": "2026-09-09T07:06:33.806Z",
       "updatedAt": "2026-09-09T07:06:33.806Z",
+      "reminded": []
+    },
+    {
+      "type": "presentation",
+      "company": "鹏芯微",
+      "position": "",
+      "date": "2026-09-16",
+      "startTime": "19:00",
+      "endTime": null,
+      "partOfDay": null,
+      "method": "线下",
+      "platform": "",
+      "location": "思明校区庄汉水楼(南强二)203",
+      "classroom": "",
+      "meetingUrl": "",
+      "links": [],
+      "meetingId": "",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "暂无明确待办"
+      ],
+      "warnings": [],
+      "lowConfFields": [],
+      "conf": {
+        "date": "高",
+        "startTime": "高",
+        "method": "中",
+        "location": "高"
+      },
+      "raw": "鹏芯微\n2027届校招宣讲会\n厦门大学站\n时间:9月16日(周三)19:00\n地点:思明校区庄汉水楼(南强二)203\n7",
+      "inputRaw": "鹏芯微\n\n2027届校招宣讲会\n厦门大学站\n时间：9月16日（周三）19:00\n地点：思明校区庄汉水楼（南强二）203\n7",
+      "status": "已确认",
+      "id": "3d634eff-b2f2-46a1-84ff-1f41ca0c2b86",
+      "createdAt": "2026-09-09T08:19:42.182Z",
+      "updatedAt": "2026-09-09T08:19:42.182Z",
       "reminded": []
     }
   ],
