@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T11:03:07.063Z",
+  "updatedAt": "2026-09-09T11:22:38.530Z",
   "events": [
     {
       "type": "interview",
@@ -1494,13 +1494,55 @@
       "createdAt": "2026-09-09T11:01:58.091Z",
       "updatedAt": "2026-09-09T11:01:58.091Z",
       "reminded": []
+    },
+    {
+      "type": "presentation",
+      "company": "三环集团",
+      "position": "",
+      "date": "2026-09-11",
+      "startTime": "19:10",
+      "endTime": null,
+      "partOfDay": null,
+      "method": "线下",
+      "platform": "",
+      "location": "集美二102",
+      "classroom": "",
+      "meetingUrl": "",
+      "links": [],
+      "meetingId": "",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "暂无明确待办"
+      ],
+      "warnings": [
+        {
+          "level": "warn",
+          "field": "location",
+          "message": "未识别到活动地点或线上链接"
+        }
+      ],
+      "lowConfFields": [],
+      "conf": {
+        "company": "高",
+        "date": "高",
+        "startTime": "高",
+        "method": "高"
+      },
+      "raw": "【三环集团2027届校招线下宣讲会-厦大站来咯!】\n2026/9/1119:10, 集美二102",
+      "inputRaw": "【三环集团2027届校招线下宣讲会-厦大站来咯！】\n2026/9/1119:10， 集美二102\n真实的岗位体验、入职校友分享，干货多多！福利多多！\n丰厚薪资：本科14k起，硕士21k起，年底双薪，项目奖金等",
+      "status": "已确认",
+      "id": "c6e1e1e3-1952-4658-94f1-63af4a7d59ed",
+      "createdAt": "2026-09-09T11:22:37.021Z",
+      "updatedAt": "2026-09-09T11:22:37.021Z",
+      "reminded": []
     }
   ],
   "settings": {
     "remindersEnabled": true,
     "leadTimesMinutes": [
-      1440,
-      60
+      120
     ]
   }
 }
