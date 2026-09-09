@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T11:59:32.287Z",
+  "updatedAt": "2026-09-09T05:42:33.163Z",
   "events": [
     {
       "type": "interview",
@@ -1248,6 +1248,48 @@
       "id": "217658dd-8b56-48f9-a98a-2033f6ebf181",
       "createdAt": "2026-09-08T11:59:30.772Z",
       "updatedAt": "2026-09-08T11:59:30.772Z",
+      "reminded": []
+    },
+    {
+      "type": "presentation",
+      "company": "吉利",
+      "position": "",
+      "date": "2026-10-12",
+      "startTime": "19:10",
+      "endTime": "21:00",
+      "partOfDay": null,
+      "method": "未知",
+      "platform": "",
+      "location": "学武楼 (1号楼) B207",
+      "classroom": "",
+      "meetingUrl": "",
+      "links": [],
+      "meetingId": "",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "暂无明确待办"
+      ],
+      "warnings": [
+        {
+          "level": "warn",
+          "field": "location",
+          "message": "未识别到活动地点或线上链接"
+        }
+      ],
+      "lowConfFields": [],
+      "conf": {
+        "company": "高",
+        "date": "高",
+        "startTime": "高"
+      },
+      "raw": "【吉利控股集团】\n【宣讲信息】\n10月12日 (周一) 19:10-21:00 学武楼 (1号楼) B207",
+      "inputRaw": "【吉利控股集团】\n【宣讲信息】\n10月12日 (周一) 19:10-21:00 学武楼 (1号楼) B207",
+      "status": "已确认",
+      "id": "842e5aca-c31d-429d-9465-f1b15ace9f90",
+      "createdAt": "2026-09-09T05:42:31.656Z",
+      "updatedAt": "2026-09-09T05:42:31.656Z",
       "reminded": []
     }
   ],
