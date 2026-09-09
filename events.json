@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T08:21:14.840Z",
+  "updatedAt": "2026-09-09T08:24:57.303Z",
   "events": [
     {
       "type": "interview",
@@ -1407,6 +1407,53 @@
       "id": "ba69a5e2-6b6c-4046-83d0-80ea36c8e756",
       "createdAt": "2026-09-09T08:21:13.332Z",
       "updatedAt": "2026-09-09T08:21:13.332Z",
+      "reminded": []
+    },
+    {
+      "type": "presentation",
+      "company": "康惠(惠州)半导体",
+      "position": "",
+      "date": "2026-09-12",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "partOfDay": null,
+      "method": "线上",
+      "platform": "腾讯会议",
+      "location": "994-766-740",
+      "classroom": "",
+      "meetingUrl": "https://meeting.tencent.com/dm/xLxOSujcEucY",
+      "links": [
+        {
+          "label": "会议链接",
+          "url": "https://meeting.tencent.com/dm/xLxOSujcEucY"
+        }
+      ],
+      "meetingId": "",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "暂无明确待办"
+      ],
+      "warnings": [
+        {
+          "level": "error",
+          "field": "date",
+          "message": "未识别到活动日期，请查看原通知确认"
+        }
+      ],
+      "lowConfFields": [],
+      "conf": {
+        "company": "高",
+        "method": "高",
+        "meetingUrl": "中"
+      },
+      "raw": "再次恭喜您通过康惠(惠州)半导体有限公司2027校园招聘简历初筛!现诚邀您参加本次Casil2027校招空中宣讲会.本次宣讲会将围\n进一步了解公司及后续招聘安排.请您仔细阅读以下信息,并准时参加.\n宣讲会时间: (建议提前5分钟入会准备,切记设置闹钟)\n点击链接直接加入会议: https://meeting.tencent.com/dm/xLxOSujcEucY\n腾讯会议号:994-766-740(复制该会议号,打开腾讯会议即可参会)",
+      "inputRaw": "再次恭喜您通过康惠(惠州)半导体有限公司2027校园招聘简历初筛！现诚邀您参加本次Casil2027校招空中宣讲会。本次宣讲会将围\n进一步了解公司及后续招聘安排。请您仔细阅读以下信息，并准时参加。\n宣讲会时间： (建议提前5分钟入会准备，切记设置闹钟)\n点击链接直接加入会议： https://meeting.tencent.com/dm/xLxOSujcEucY\n腾讯会议号：994-766-740(复制该会议号，打开腾讯会议即可参会)",
+      "status": "已确认",
+      "id": "39bfbc3b-2571-4ac4-a026-c97960290388",
+      "createdAt": "2026-09-09T08:24:55.794Z",
+      "updatedAt": "2026-09-09T08:24:55.794Z",
       "reminded": []
     }
   ],
