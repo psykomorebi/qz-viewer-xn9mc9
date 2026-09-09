@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T05:42:33.163Z",
+  "updatedAt": "2026-09-09T07:06:35.318Z",
   "events": [
     {
       "type": "interview",
@@ -1290,6 +1290,49 @@
       "id": "842e5aca-c31d-429d-9465-f1b15ace9f90",
       "createdAt": "2026-09-09T05:42:31.656Z",
       "updatedAt": "2026-09-09T05:42:31.656Z",
+      "reminded": []
+    },
+    {
+      "type": "interview",
+      "company": "中建八局三公司",
+      "position": "无",
+      "date": "2026-09-09",
+      "startTime": "17:00",
+      "endTime": null,
+      "partOfDay": null,
+      "method": "线上",
+      "platform": "腾讯会议",
+      "location": "",
+      "classroom": "",
+      "meetingUrl": "",
+      "links": [],
+      "meetingId": "680-477-843",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "暂无明确待办"
+      ],
+      "warnings": [
+        {
+          "level": "error",
+          "field": "date",
+          "message": "未识别到具体面试日期，请查看原通知确认"
+        }
+      ],
+      "lowConfFields": [],
+      "conf": {
+        "company": "高",
+        "startTime": "高",
+        "method": "高",
+        "platform": "高"
+      },
+      "raw": "中建八局三公司\n线上面试\n腾讯会议:680-477-843\n面试时间:9.9号,17:00",
+      "inputRaw": "中建八局三公司\n线上面试\n腾讯会议：680-477-843\n面试时间：9.9号，17：00",
+      "status": "已确认",
+      "id": "40284f8a-a761-4f37-9110-0c9e6bdefacf",
+      "createdAt": "2026-09-09T07:06:33.806Z",
+      "updatedAt": "2026-09-09T07:06:33.806Z",
       "reminded": []
     }
   ],
