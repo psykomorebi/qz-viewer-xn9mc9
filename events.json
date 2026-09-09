@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T08:19:43.687Z",
+  "updatedAt": "2026-09-09T08:21:14.840Z",
   "events": [
     {
       "type": "interview",
@@ -1370,6 +1370,43 @@
       "id": "3d634eff-b2f2-46a1-84ff-1f41ca0c2b86",
       "createdAt": "2026-09-09T08:19:42.182Z",
       "updatedAt": "2026-09-09T08:19:42.182Z",
+      "reminded": []
+    },
+    {
+      "type": "presentation",
+      "company": "华为",
+      "position": "",
+      "date": "2026-09-11",
+      "startTime": "13:50",
+      "endTime": null,
+      "partOfDay": null,
+      "method": "线下",
+      "platform": "",
+      "location": "翔安校区德旺图书馆一号报告厅",
+      "classroom": "",
+      "meetingUrl": "",
+      "links": [],
+      "meetingId": "",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "暂无明确待办"
+      ],
+      "warnings": [],
+      "lowConfFields": [],
+      "conf": {
+        "date": "高",
+        "startTime": "高",
+        "method": "中",
+        "location": "高"
+      },
+      "raw": "宣讲安排\n时间:9月11日(周五)13:50起\n地点:翔安校区德旺图书馆一号报告厅",
+      "inputRaw": "宣讲安排\n时间：9月11日（周五）13:50起\n地点：翔安校区德旺图书馆一号报告厅",
+      "status": "已确认",
+      "id": "ba69a5e2-6b6c-4046-83d0-80ea36c8e756",
+      "createdAt": "2026-09-09T08:21:13.332Z",
+      "updatedAt": "2026-09-09T08:21:13.332Z",
       "reminded": []
     }
   ],
