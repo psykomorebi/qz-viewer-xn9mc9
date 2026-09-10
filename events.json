@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T03:42:32.291Z",
+  "updatedAt": "2026-09-10T14:00:14.019Z",
   "events": [
     {
       "type": "interview",
@@ -1583,6 +1583,44 @@
       "id": "8c70b344-ab72-456c-b612-4eeb0ec4d327",
       "createdAt": "2026-09-10T03:42:30.777Z",
       "updatedAt": "2026-09-10T03:42:30.777Z",
+      "reminded": []
+    },
+    {
+      "type": "presentation",
+      "company": "新华三公司",
+      "position": "",
+      "date": "2026-09-16",
+      "startTime": "16:30",
+      "endTime": "18:20",
+      "partOfDay": null,
+      "method": "线下",
+      "platform": "",
+      "location": "翔安校区正信楼108会议室",
+      "classroom": "",
+      "meetingUrl": "",
+      "links": [],
+      "meetingId": "",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "暂无明确待办"
+      ],
+      "warnings": [],
+      "lowConfFields": [],
+      "conf": {
+        "company": "高",
+        "date": "高",
+        "startTime": "高",
+        "method": "高",
+        "location": "高"
+      },
+      "raw": "新华三公司\n宣讲会时间: 2026年9月16日 16:30-18:20\n宣讲会地点:翔安校区正信楼108会议室\n待办:建议提前准备简历到现场,方便直接投递电子/纸质均可,现场投简历,可获直通面试机会",
+      "inputRaw": "新华三公司\n宣讲会时间： 2026年9月16日 16:30-18:20\n宣讲会地点：翔安校区正信楼108会议室\n\n待办：建议提前准备简历到现场，方便直接投递电子/纸质均可，现场投简历，可获直通面试机会",
+      "status": "已确认",
+      "id": "d28a1485-cf1e-4487-8eaf-8af9910175bd",
+      "createdAt": "2026-09-10T14:00:12.511Z",
+      "updatedAt": "2026-09-10T14:00:12.511Z",
       "reminded": []
     }
   ],
