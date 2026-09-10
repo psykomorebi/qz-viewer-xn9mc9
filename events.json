@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T14:12:29.424Z",
+  "updatedAt": "2026-09-10T14:24:48.964Z",
   "events": [
     {
       "type": "interview",
@@ -1659,6 +1659,44 @@
       "id": "19f48666-2a1a-4b12-b33c-76e133de493a",
       "createdAt": "2026-09-10T14:12:27.922Z",
       "updatedAt": "2026-09-10T14:12:27.922Z",
+      "reminded": []
+    },
+    {
+      "type": "presentation",
+      "company": "中国石油集团",
+      "position": "",
+      "date": "2026-09-12",
+      "startTime": "10:00",
+      "endTime": "12:00",
+      "partOfDay": null,
+      "method": "线下",
+      "platform": "",
+      "location": "翔安校区学武楼(1号楼)B207",
+      "classroom": "",
+      "meetingUrl": "",
+      "links": [],
+      "meetingId": "",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "暂无明确待办"
+      ],
+      "warnings": [],
+      "lowConfFields": [],
+      "conf": {
+        "company": "高",
+        "date": "高",
+        "startTime": "高",
+        "method": "中",
+        "location": "高"
+      },
+      "raw": "中国石油集团海洋工程有限公司专场宣讲会\n时间: 9月12日 10:00-12:00\n地点:翔安校区学武楼(1号楼)B207",
+      "inputRaw": "中国石油集团海洋工程有限公司专场宣讲会\n时间： 9月12日 10:00-12:00\n地点:翔安校区学武楼(1号楼)B207",
+      "status": "已确认",
+      "id": "b8858f32-e164-4c46-943f-3e22aac79b26",
+      "createdAt": "2026-09-10T14:24:47.454Z",
+      "updatedAt": "2026-09-10T14:24:47.454Z",
       "reminded": []
     }
   ],
