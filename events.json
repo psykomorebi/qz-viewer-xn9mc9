@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T14:00:14.019Z",
+  "updatedAt": "2026-09-10T14:12:29.424Z",
   "events": [
     {
       "type": "interview",
@@ -1621,6 +1621,44 @@
       "id": "d28a1485-cf1e-4487-8eaf-8af9910175bd",
       "createdAt": "2026-09-10T14:00:12.511Z",
       "updatedAt": "2026-09-10T14:00:12.511Z",
+      "reminded": []
+    },
+    {
+      "type": "presentation",
+      "company": "中芯国际",
+      "position": "",
+      "date": "2026-09-15",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "partOfDay": null,
+      "method": "线下",
+      "platform": "",
+      "location": "翔安校区电子科学与技术学院南存钿楼C座4楼报告厅",
+      "classroom": "",
+      "meetingUrl": "",
+      "links": [],
+      "meetingId": "",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "暂无明确待办"
+      ],
+      "warnings": [],
+      "lowConfFields": [],
+      "conf": {
+        "company": "中",
+        "date": "高",
+        "startTime": "高",
+        "method": "中",
+        "location": "高"
+      },
+      "raw": "【宣讲信息】\n厦门大学宣讲会\n时间:9月15日 (周二) 19:00-21:00\n地点:翔安校区电子科学与技术学院南存钿楼C座4楼报告厅",
+      "inputRaw": "【中芯国际】中芯国际2027校园招聘-厦门大学宣讲会邀您参与！\n【宣讲信息】\n厦门大学宣讲会\n时间：9月15日 (周二) 19:00-21:00\n地点：翔安校区电子科学与技术学院南存钿楼C座4楼报告厅",
+      "status": "已确认",
+      "id": "19f48666-2a1a-4b12-b33c-76e133de493a",
+      "createdAt": "2026-09-10T14:12:27.922Z",
+      "updatedAt": "2026-09-10T14:12:27.922Z",
       "reminded": []
     }
   ],
