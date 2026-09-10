@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T11:22:38.530Z",
+  "updatedAt": "2026-09-10T03:42:32.291Z",
   "events": [
     {
       "type": "interview",
@@ -1536,6 +1536,53 @@
       "id": "c6e1e1e3-1952-4658-94f1-63af4a7d59ed",
       "createdAt": "2026-09-09T11:22:37.021Z",
       "updatedAt": "2026-09-09T11:22:37.021Z",
+      "reminded": []
+    },
+    {
+      "type": "presentation",
+      "company": "新芯股份",
+      "position": "",
+      "date": "2026-09-16",
+      "startTime": "19:00",
+      "endTime": null,
+      "partOfDay": null,
+      "method": "未知",
+      "platform": "",
+      "location": "学武楼1号楼C204（139座）",
+      "classroom": "",
+      "meetingUrl": "",
+      "links": [],
+      "meetingId": "",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "暂无明确待办"
+      ],
+      "warnings": [
+        {
+          "level": "error",
+          "field": "date",
+          "message": "未识别到活动日期，请查看原通知确认"
+        },
+        {
+          "level": "warn",
+          "field": "location",
+          "message": "未识别到活动地点或线上链接"
+        }
+      ],
+      "lowConfFields": [
+        "company"
+      ],
+      "conf": {
+        "company": "低"
+      },
+      "raw": "新芯股份2027届校园招聘宣讲会",
+      "inputRaw": "新芯股份2027届校园招聘宣讲会\n【宣讲日期】9月16日 周三\n【宣讲时间】19：00\n【宣讲地点】翔安校区 学武楼1号楼C204  139座",
+      "status": "已确认",
+      "id": "8c70b344-ab72-456c-b612-4eeb0ec4d327",
+      "createdAt": "2026-09-10T03:42:30.777Z",
+      "updatedAt": "2026-09-10T03:42:30.777Z",
       "reminded": []
     }
   ],
