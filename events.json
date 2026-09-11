@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T09:58:07.236Z",
+  "updatedAt": "2026-09-11T11:14:57.681Z",
   "events": [
     {
       "type": "interview",
@@ -1786,13 +1786,50 @@
       "createdAt": "2026-09-11T09:44:20.351Z",
       "updatedAt": "2026-09-11T09:44:20.351Z",
       "reminded": []
+    },
+    {
+      "type": "待确认",
+      "company": "中国石油集团",
+      "position": "",
+      "date": "2026-09-12",
+      "startTime": "10:00",
+      "endTime": "12:00",
+      "partOfDay": null,
+      "method": "线下",
+      "platform": "",
+      "location": "翔安校区学武楼(1号楼)B207",
+      "classroom": "",
+      "meetingUrl": "",
+      "links": [],
+      "meetingId": "",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "暂无明确待办"
+      ],
+      "warnings": [],
+      "lowConfFields": [],
+      "conf": {
+        "company": "高",
+        "date": "高",
+        "startTime": "高",
+        "method": "中",
+        "location": "高"
+      },
+      "raw": "中国石油集团海洋工程有限公司\n时间:2026-09-12 10:00-12:00\n地点:翔安校区学武楼(1号楼)B207",
+      "inputRaw": "中国石油集团海洋工程有限公司\n时间：2026-09-12 10:00-12:00\n地点：翔安校区 学武楼（1号楼）B207",
+      "status": "已确认",
+      "id": "7a14f8bd-ca6b-40b5-96ec-517ecb36c40f",
+      "createdAt": "2026-09-11T11:14:56.175Z",
+      "updatedAt": "2026-09-11T11:14:56.175Z",
+      "reminded": []
     }
   ],
   "settings": {
     "remindersEnabled": true,
     "leadTimesMinutes": [
-      1440,
-      60
+      120
     ]
   }
 }
