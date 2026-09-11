@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T05:30:35.770Z",
+  "updatedAt": "2026-09-11T08:35:54.470Z",
   "events": [
     {
       "type": "interview",
@@ -1745,13 +1745,53 @@
       "createdAt": "2026-09-11T05:30:28.470Z",
       "updatedAt": "2026-09-11T05:30:28.470Z",
       "reminded": []
+    },
+    {
+      "type": "interview",
+      "company": "昇维旭",
+      "position": "工艺工程师",
+      "date": "2026-09-12",
+      "startTime": "11:30",
+      "endTime": null,
+      "partOfDay": null,
+      "method": "线上",
+      "platform": "",
+      "location": "",
+      "classroom": "",
+      "meetingUrl": "",
+      "links": [],
+      "meetingId": "",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "暂无明确待办"
+      ],
+      "warnings": [],
+      "lowConfFields": [
+        "company",
+        "position"
+      ],
+      "conf": {
+        "company": "低",
+        "date": "高",
+        "startTime": "高",
+        "position": "低",
+        "method": "高"
+      },
+      "raw": "09月12日周六11:30\n昇维旭的面试邀请\n职位工艺工程师 (2027校招)(J10503)\n方式视频面试",
+      "inputRaw": "09月12日周六11:30\n昇维旭的面试邀请\n职位 工艺工程师 (2027校招)(J10503)\n方式视频面试",
+      "status": "已确认",
+      "id": "636fe4c3-8836-429e-bda7-ff5d90fa36bd",
+      "createdAt": "2026-09-11T08:35:52.961Z",
+      "updatedAt": "2026-09-11T08:35:52.961Z",
+      "reminded": []
     }
   ],
   "settings": {
     "remindersEnabled": true,
     "leadTimesMinutes": [
-      1440,
-      60
+      120
     ]
   }
 }
