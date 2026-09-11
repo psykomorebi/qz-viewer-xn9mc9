@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T14:24:48.964Z",
+  "updatedAt": "2026-09-11T05:30:29.986Z",
   "events": [
     {
       "type": "interview",
@@ -1406,8 +1406,10 @@
       "status": "已确认",
       "id": "ba69a5e2-6b6c-4046-83d0-80ea36c8e756",
       "createdAt": "2026-09-09T08:21:13.332Z",
-      "updatedAt": "2026-09-09T08:21:13.332Z",
-      "reminded": []
+      "updatedAt": "2026-09-11T03:49:32.681Z",
+      "reminded": [
+        "1789098600000"
+      ]
     },
     {
       "type": "presentation",
@@ -1697,6 +1699,51 @@
       "id": "b8858f32-e164-4c46-943f-3e22aac79b26",
       "createdAt": "2026-09-10T14:24:47.454Z",
       "updatedAt": "2026-09-10T14:24:47.454Z",
+      "reminded": []
+    },
+    {
+      "type": "interview",
+      "company": "渠梁电子",
+      "position": "制程整合工程师",
+      "date": "2026-09-17",
+      "startTime": "15:00",
+      "endTime": null,
+      "partOfDay": null,
+      "method": "线上",
+      "platform": "腾讯会议",
+      "location": "",
+      "classroom": "",
+      "meetingUrl": "https:// meeting.tencent.co m/d m/7 m7SFsrLgZf7",
+      "links": [
+        {
+          "label": "会议链接",
+          "url": "https:// meeting.tencent.co m/d m/7 m7SFsrLgZf7"
+        }
+      ],
+      "meetingId": "569956823",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "暂无明确待办"
+      ],
+      "warnings": [],
+      "lowConfFields": [],
+      "conf": {
+        "company": "高",
+        "date": "高",
+        "startTime": "高",
+        "method": "高",
+        "platform": "高",
+        "location": "高",
+        "meetingUrl": "中"
+      },
+      "raw": "感谢您对渠梁电子的关注.很高兴收到您的简历,现诚挚邀请您参加我司制程整合工程师(2\n027届校招)面试.\n面试目期:2026-09-17 周四\n面试时间:15:00\n面试方式:视频面试\n面试地点:\n会议信息\n您可以通过如下方式参与视频面试\n面试 地址: https:// meeting.tencent.co m/d m/7 m7SFsrLgZf7\n腾讯会议ID:569956823\nhttps://meeting.tencent.com/dm/7 m7SFsrLgZf7\n联系人:渠梁HR",
+      "inputRaw": "感谢您对渠梁电子的关注。很高兴收到您的简历，现诚挚邀请您参加我司制程整合工程师(2\n027届校招)面试。\n面试目期：2026-09-17 周四\n面试时间：15:00\n面试方式：视频面试\n面试地点：\n会议信息\n您可以通过如下方式参与视频面试\n面 试 地 址: https:// meeting.tencent.co m/d m/7 m7SFsrLgZf7\n腾讯会议ID:569956823\nhttps://meeting.tencent.com/dm/7 m7SFsrLgZf7\n联系人：渠梁HR",
+      "status": "已确认",
+      "id": "ee7622c5-71d7-48e0-9179-bed14d80f6ab",
+      "createdAt": "2026-09-11T05:30:28.470Z",
+      "updatedAt": "2026-09-11T05:30:28.470Z",
       "reminded": []
     }
   ],
