@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T11:14:57.681Z",
+  "updatedAt": "2026-09-11T11:45:39.810Z",
   "events": [
     {
       "type": "interview",
@@ -1823,6 +1823,43 @@
       "id": "7a14f8bd-ca6b-40b5-96ec-517ecb36c40f",
       "createdAt": "2026-09-11T11:14:56.175Z",
       "updatedAt": "2026-09-11T11:14:56.175Z",
+      "reminded": []
+    },
+    {
+      "type": "待确认",
+      "company": "比亚迪",
+      "position": "",
+      "date": "2026-09-21",
+      "startTime": "19:00",
+      "endTime": null,
+      "partOfDay": null,
+      "method": "线下",
+      "platform": "",
+      "location": "坤銮楼(2号楼)A202",
+      "classroom": "",
+      "meetingUrl": "",
+      "links": [],
+      "meetingId": "",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "暂无明确待办"
+      ],
+      "warnings": [],
+      "lowConfFields": [],
+      "conf": {
+        "date": "高",
+        "startTime": "高",
+        "method": "中",
+        "location": "中"
+      },
+      "raw": "厦7\n厦门大学 9月21日\n翔安校区坤銮楼(2号楼)A202 19:00\n0000",
+      "inputRaw": "厦7\n厦门大学 9月21日\n翔安校区坤銮楼(2号楼)A202 19:00\n0000",
+      "status": "已确认",
+      "id": "3b3f0ba2-9f7f-4638-970a-7f2257a39465",
+      "createdAt": "2026-09-11T11:45:38.300Z",
+      "updatedAt": "2026-09-11T11:45:38.300Z",
       "reminded": []
     }
   ],
