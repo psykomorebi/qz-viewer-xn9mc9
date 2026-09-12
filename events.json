@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T11:45:39.810Z",
+  "updatedAt": "2026-09-12T08:20:35.967Z",
   "events": [
     {
       "type": "interview",
@@ -1860,6 +1860,44 @@
       "id": "3b3f0ba2-9f7f-4638-970a-7f2257a39465",
       "createdAt": "2026-09-11T11:45:38.300Z",
       "updatedAt": "2026-09-11T11:45:38.300Z",
+      "reminded": []
+    },
+    {
+      "type": "presentation",
+      "company": "大疆-宣讲+双选",
+      "position": "",
+      "date": "2026-09-21",
+      "startTime": "14:30",
+      "endTime": "18:00",
+      "partOfDay": null,
+      "method": "线下",
+      "platform": "",
+      "location": "翔安校区爱秋体育馆/学武楼 C302 (19:00-21:00)",
+      "classroom": "",
+      "meetingUrl": "",
+      "links": [],
+      "meetingId": "",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "暂无明确待办"
+      ],
+      "warnings": [],
+      "lowConfFields": [],
+      "conf": {
+        "company": "高",
+        "date": "高",
+        "startTime": "高",
+        "method": "高",
+        "location": "高"
+      },
+      "raw": "17 思明宣讲会: 9月17日19:00-21:00 庄汉水楼(南强二)102",
+      "inputRaw": "厦门大学|DJI大疆线下专场宣讲会(思明&翔安双场)\n17 思明宣讲会： 9月17日19:00-21:00 庄汉水楼（南强二）102\n17 翔安宣讲会:9月21日19:00-21:00学武楼 （1号楼)C302\n思明双选会：9月17日8:00-13:00思明校区科艺中心一楼展厅\n翔安双选会：9月21日14:30-18:00翔安校区爱秋体育馆",
+      "status": "已确认",
+      "id": "40be21a9-97a8-4390-bea0-4da008170e60",
+      "createdAt": "2026-09-12T08:20:34.450Z",
+      "updatedAt": "2026-09-12T08:20:34.450Z",
       "reminded": []
     }
   ],
