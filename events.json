@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T09:01:53.803Z",
+  "updatedAt": "2026-09-12T09:20:26.606Z",
   "events": [
     {
       "type": "interview",
@@ -1938,6 +1938,51 @@
       "id": "9df2706b-7f2b-48b3-b3ca-cb591efc6fd8",
       "createdAt": "2026-09-12T09:01:52.289Z",
       "updatedAt": "2026-09-12T09:01:52.289Z",
+      "reminded": []
+    },
+    {
+      "type": "interview",
+      "company": "昇维旭",
+      "position": "工艺工程师",
+      "date": "2026-09-13",
+      "startTime": "15:30",
+      "endTime": null,
+      "partOfDay": null,
+      "method": "线上",
+      "platform": "腾讯会议",
+      "location": "",
+      "classroom": "",
+      "meetingUrl": "",
+      "links": [],
+      "meetingId": "",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "暂无明确待办"
+      ],
+      "warnings": [
+        {
+          "level": "error",
+          "field": "company",
+          "message": "未识别到企业名称"
+        }
+      ],
+      "lowConfFields": [
+        "position"
+      ],
+      "conf": {
+        "date": "高",
+        "startTime": "高",
+        "position": "低",
+        "method": "高"
+      },
+      "raw": "预约成功\n此时间为预约意向时间,最终面试时间企业会发送邮件通知,请关注后续消息\n09月13日周日15:30\n昇维旭的面试邀请\n职位工艺工程师(2027校招)(J10503)\n方式视频面试",
+      "inputRaw": "预约成功\n此时间为预约意向时间，最终面试时间企业会发送邮件通知，请关注后续消息\n09月13日周日15:30\n昇维旭的面试邀请\n职位 工艺工程师(2027校招)(J10503)\n方式视频面试",
+      "status": "已确认",
+      "id": "4ae70ba3-3002-45ee-8dde-1db951f24b35",
+      "createdAt": "2026-09-12T09:20:25.095Z",
+      "updatedAt": "2026-09-12T09:20:25.095Z",
       "reminded": []
     }
   ],
