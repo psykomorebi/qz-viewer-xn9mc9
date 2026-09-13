@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T06:11:56.001Z",
+  "updatedAt": "2026-09-13T09:16:26.555Z",
   "events": [
     {
       "type": "interview",
@@ -2023,6 +2023,44 @@
       "id": "589c5557-ac75-4ace-bc21-326ce9234b98",
       "createdAt": "2026-09-13T06:11:54.489Z",
       "updatedAt": "2026-09-13T06:11:54.489Z",
+      "reminded": []
+    },
+    {
+      "type": "presentation",
+      "company": "因湃电池科技",
+      "position": "",
+      "date": "2026-09-14",
+      "startTime": "19:10",
+      "endTime": "21:00",
+      "partOfDay": null,
+      "method": "线下",
+      "platform": "",
+      "location": "翔安校区学武楼(1号楼)B208",
+      "classroom": "",
+      "meetingUrl": "",
+      "links": [],
+      "meetingId": "",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "暂无明确待办"
+      ],
+      "warnings": [],
+      "lowConfFields": [],
+      "conf": {
+        "company": "高",
+        "date": "高",
+        "startTime": "高",
+        "method": "高",
+        "location": "高"
+      },
+      "raw": "您好!我们邀请你参加因湃电池科技有限公司线下宣讲会.\n厦门大学2027届毕业生宣讲会\n时间:2026年9月14日19:10-21:00(星期一)\n地点:翔安校区学武楼(1号楼)B208\n欢迎各位同学线下投递简历!",
+      "inputRaw": "您好！我们邀请你参加因湃电池科技有限公司线下宣讲会。\n厦门大学2027届毕业生宣讲会\n时间：2026年9月14日19:10-21:00(星期一)\n地点:翔安校区学武楼(1号楼)B208\n欢迎各位同学线下投递简历！",
+      "status": "已确认",
+      "id": "0bcc42f7-8799-4f0c-9d89-e035401be688",
+      "createdAt": "2026-09-13T09:16:25.050Z",
+      "updatedAt": "2026-09-13T09:16:25.050Z",
       "reminded": []
     }
   ],
