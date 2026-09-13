@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T09:20:26.606Z",
+  "updatedAt": "2026-09-13T06:11:56.001Z",
   "events": [
     {
       "type": "interview",
@@ -1982,7 +1982,47 @@
       "status": "已确认",
       "id": "4ae70ba3-3002-45ee-8dde-1db951f24b35",
       "createdAt": "2026-09-12T09:20:25.095Z",
-      "updatedAt": "2026-09-12T09:20:25.095Z",
+      "updatedAt": "2026-09-13T05:29:49.460Z",
+      "reminded": [
+        "1789277400000"
+      ]
+    },
+    {
+      "type": "presentation",
+      "company": "中国航空发动机集团",
+      "position": "",
+      "date": "2026-09-14",
+      "startTime": "9:30",
+      "endTime": "12:00",
+      "partOfDay": null,
+      "method": "线下",
+      "platform": "",
+      "location": "翔安校区德旺图书馆二号报告厅/图书馆北厅（双选）",
+      "classroom": "",
+      "meetingUrl": "",
+      "links": [],
+      "meetingId": "",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "暂无明确待办"
+      ],
+      "warnings": [],
+      "lowConfFields": [],
+      "conf": {
+        "company": "高",
+        "date": "高",
+        "startTime": "高",
+        "method": "中",
+        "location": "高"
+      },
+      "raw": "【组团双选】中国航空发动机集团2027届校园招聘\n宣讲时间:9月14日(周一)9:30\n宣讲地点:翔安校区德旺图书馆二号报告厅\n双选时间:9月14日(周一) 10:00-12:00\n双选地点:翔安校区德旺图书馆北厅",
+      "inputRaw": "【组团双选】中国航空发动机集团2027届校园招聘\n宣讲时间：9月14日（周一）9：30\n宣讲地点：翔安校区德旺图书馆二号报告厅\n双选时间：9月14日（周一） 10：00-12：00\n双选地点：翔安校区德旺图书馆北厅",
+      "status": "已确认",
+      "id": "589c5557-ac75-4ace-bc21-326ce9234b98",
+      "createdAt": "2026-09-13T06:11:54.489Z",
+      "updatedAt": "2026-09-13T06:11:54.489Z",
       "reminded": []
     }
   ],
