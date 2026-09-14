@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T10:54:29.537Z",
+  "updatedAt": "2026-09-14T02:15:35.032Z",
   "events": [
     {
       "type": "interview",
@@ -2062,13 +2062,50 @@
       "createdAt": "2026-09-13T09:16:25.050Z",
       "updatedAt": "2026-09-13T09:16:25.050Z",
       "reminded": []
+    },
+    {
+      "type": "presentation",
+      "company": "科华集团",
+      "position": "",
+      "date": "2026-09-18",
+      "startTime": "15:30",
+      "endTime": null,
+      "partOfDay": null,
+      "method": "线下",
+      "platform": "",
+      "location": "学武楼(1号楼)B204",
+      "classroom": "",
+      "meetingUrl": "",
+      "links": [],
+      "meetingId": "",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "暂无明确待办"
+      ],
+      "warnings": [],
+      "lowConfFields": [],
+      "conf": {
+        "company": "高",
+        "date": "高",
+        "startTime": "高",
+        "method": "中",
+        "location": "高"
+      },
+      "raw": "科华集团-厦门大学专场宣讲\n时间: 9月18日 (周五)15:30\n地点:学武楼(1号楼)B204",
+      "inputRaw": "科华集团-厦门大学专场宣讲\n时间： 9月18日 (周五)15:30\n地点:学武楼(1号楼)B204",
+      "status": "已确认",
+      "id": "ac268c79-8104-4cef-bcae-a2af6fafb9bc",
+      "createdAt": "2026-09-14T02:15:33.520Z",
+      "updatedAt": "2026-09-14T02:15:33.520Z",
+      "reminded": []
     }
   ],
   "settings": {
     "remindersEnabled": true,
     "leadTimesMinutes": [
-      1440,
-      60
+      120
     ]
   }
 }
