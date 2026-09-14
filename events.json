@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T02:17:29.689Z",
+  "updatedAt": "2026-09-14T02:18:00.433Z",
   "events": [
     {
       "type": "interview",
@@ -513,7 +513,7 @@
       "partOfDay": null,
       "method": "线下",
       "platform": "",
-      "location": "航空航天学院",
+      "location": "航空航天学院547会议室",
       "classroom": "",
       "meetingUrl": "https://v.wjx.cn/vm/hTCu1ou.aspx?code=091lLe000FkyXW1Mmi300CrA512lLe0x&state=sojump",
       "links": [
@@ -544,7 +544,7 @@
       "status": "已确认",
       "id": "4548ee7e-3322-45b0-93c5-a45540d1e559",
       "createdAt": "2026-09-04T15:26:43.824Z",
-      "updatedAt": "2026-09-04T15:26:43.824Z",
+      "updatedAt": "2026-09-14T02:17:58.926Z",
       "reminded": []
     },
     {
