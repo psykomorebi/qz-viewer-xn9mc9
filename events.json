@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T02:15:35.032Z",
+  "updatedAt": "2026-09-14T02:16:10.113Z",
   "events": [
     {
       "type": "interview",
@@ -2099,6 +2099,44 @@
       "id": "ac268c79-8104-4cef-bcae-a2af6fafb9bc",
       "createdAt": "2026-09-14T02:15:33.520Z",
       "updatedAt": "2026-09-14T02:15:33.520Z",
+      "reminded": []
+    },
+    {
+      "type": "presentation",
+      "company": "京东方",
+      "position": "",
+      "date": "2026-09-14",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "partOfDay": null,
+      "method": "线下",
+      "platform": "",
+      "location": "翔安学武楼C105",
+      "classroom": "",
+      "meetingUrl": "",
+      "links": [],
+      "meetingId": "",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "暂无明确待办"
+      ],
+      "warnings": [],
+      "lowConfFields": [],
+      "conf": {
+        "company": "高",
+        "date": "高",
+        "startTime": "高",
+        "method": "中",
+        "location": "高"
+      },
+      "raw": "京东方2027秋招宣讲会\n厦门大学站\n时间: 9月14日 19:00-21:00\n地点: 翔安学武楼C105",
+      "inputRaw": "京东方2027秋招宣讲会\n厦门大学站\n时间： 9月14日 19:00-21:00\n地点： 翔安学武楼C105",
+      "status": "已确认",
+      "id": "4eb120a6-c0af-4caa-88a9-a1b2e2a83f65",
+      "createdAt": "2026-09-14T02:16:08.603Z",
+      "updatedAt": "2026-09-14T02:16:08.603Z",
       "reminded": []
     }
   ],
