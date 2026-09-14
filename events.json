@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T05:59:25.513Z",
+  "updatedAt": "2026-09-14T14:07:11.685Z",
   "events": [
     {
       "type": "interview",
@@ -1937,8 +1937,10 @@
       "status": "已确认",
       "id": "9df2706b-7f2b-48b3-b3ca-cb591efc6fd8",
       "createdAt": "2026-09-12T09:01:52.289Z",
-      "updatedAt": "2026-09-12T09:01:52.289Z",
-      "reminded": []
+      "updatedAt": "2026-09-14T06:59:32.232Z",
+      "reminded": [
+        "1789369200000"
+      ]
     },
     {
       "type": "interview",
@@ -2220,13 +2222,52 @@
       "createdAt": "2026-09-14T05:53:42.016Z",
       "updatedAt": "2026-09-14T05:53:42.016Z",
       "reminded": []
+    },
+    {
+      "type": "interview",
+      "company": "欣旺达",
+      "position": "产品开发工程师-固态-动力-深圳",
+      "date": "2026-09-15",
+      "startTime": "10:45",
+      "endTime": null,
+      "partOfDay": null,
+      "method": "线上",
+      "platform": "",
+      "location": "",
+      "classroom": "",
+      "meetingUrl": "",
+      "links": [],
+      "meetingId": "",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "暂无明确待办"
+      ],
+      "warnings": [],
+      "lowConfFields": [
+        "position"
+      ],
+      "conf": {
+        "company": "高",
+        "date": "高",
+        "startTime": "高",
+        "position": "低",
+        "method": "高"
+      },
+      "raw": "09月15日周二 10:45\n欣旺达的面试邀请\n职位产品开发工程师-固态-动力-深圳(J21210)\n方式视频面试",
+      "inputRaw": "09月15日周二 10:45\n欣旺达的面试邀请\n职位 产品开发工程师-固态-动力-深圳(J21210)\n方式视频面试",
+      "status": "已确认",
+      "id": "74d0bb6d-7f5f-443e-ba99-7620d112a213",
+      "createdAt": "2026-09-14T14:07:10.179Z",
+      "updatedAt": "2026-09-14T14:07:10.179Z",
+      "reminded": []
     }
   ],
   "settings": {
     "remindersEnabled": true,
     "leadTimesMinutes": [
-      1440,
-      60
+      120
     ]
   }
 }
