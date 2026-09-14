@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T02:16:10.113Z",
+  "updatedAt": "2026-09-14T02:17:29.689Z",
   "events": [
     {
       "type": "interview",
@@ -2137,6 +2137,46 @@
       "id": "4eb120a6-c0af-4caa-88a9-a1b2e2a83f65",
       "createdAt": "2026-09-14T02:16:08.603Z",
       "updatedAt": "2026-09-14T02:16:08.603Z",
+      "reminded": []
+    },
+    {
+      "type": "presentation",
+      "company": "超聚变-抽奖",
+      "position": "",
+      "date": "2026-09-16",
+      "startTime": "19:00",
+      "endTime": null,
+      "partOfDay": null,
+      "method": "线下",
+      "platform": "",
+      "location": "翔安校区德旺图书馆2号报告厅",
+      "classroom": "",
+      "meetingUrl": "",
+      "links": [],
+      "meetingId": "",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "暂无明确待办"
+      ],
+      "warnings": [],
+      "lowConfFields": [
+        "company"
+      ],
+      "conf": {
+        "company": "低",
+        "date": "高",
+        "startTime": "高",
+        "method": "高",
+        "location": "高"
+      },
+      "raw": "超聚变2027届秋季校园宣讲会-厦门大学专场】\n⏰时间:9月16日(周三)19:00‐21:00\n📍地点:翔安校区德旺图书馆2号报告厅",
+      "inputRaw": "超聚变2027届秋季校园宣讲会-厦门大学专场】\n⏰时间：9月16日（周三）19:00‑21:00\n📍地点：翔安校区德旺图书馆2号报告厅",
+      "status": "已确认",
+      "id": "71bd3899-49b2-414a-a0e4-d9579c8ebdfa",
+      "createdAt": "2026-09-14T02:17:28.175Z",
+      "updatedAt": "2026-09-14T02:17:28.175Z",
       "reminded": []
     }
   ],
