@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T15:13:33.960Z",
+  "updatedAt": "2026-09-14T15:13:58.607Z",
   "events": [
     {
       "type": "interview",
@@ -2269,7 +2269,7 @@
       "position": "研发岗",
       "date": "2026-09-15",
       "startTime": "08:50",
-      "endTime": null,
+      "endTime": "9:30",
       "partOfDay": "早上",
       "method": "线下",
       "platform": "",
@@ -2305,7 +2305,7 @@
       "status": "已确认",
       "id": "c7e79100-5b5c-49e1-bf00-7854a51f12ac",
       "createdAt": "2026-09-14T15:09:55.187Z",
-      "updatedAt": "2026-09-14T15:09:55.187Z",
+      "updatedAt": "2026-09-14T15:13:57.094Z",
       "reminded": []
     },
     {
@@ -2352,8 +2352,7 @@
   "settings": {
     "remindersEnabled": true,
     "leadTimesMinutes": [
-      1440,
-      60
+      120
     ]
   }
 }
