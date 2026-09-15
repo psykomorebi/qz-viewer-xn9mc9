@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T07:19:20.282Z",
+  "updatedAt": "2026-09-15T09:09:38.890Z",
   "events": [
     {
       "type": "interview",
@@ -956,8 +956,10 @@
       "status": "已确认",
       "id": "3904a8ca-faba-48b7-a75e-a494c5b947ac",
       "createdAt": "2026-09-07T11:58:37.790Z",
-      "updatedAt": "2026-09-07T11:58:37.790Z",
-      "reminded": []
+      "updatedAt": "2026-09-15T08:59:50.505Z",
+      "reminded": [
+        "1789462800000"
+      ]
     },
     {
       "type": "interview",
@@ -1622,8 +1624,10 @@
       "status": "已确认",
       "id": "19f48666-2a1a-4b12-b33c-76e133de493a",
       "createdAt": "2026-09-10T14:12:27.922Z",
-      "updatedAt": "2026-09-10T14:12:27.922Z",
-      "reminded": []
+      "updatedAt": "2026-09-15T08:59:50.512Z",
+      "reminded": [
+        "1789462800000"
+      ]
     },
     {
       "type": "presentation",
@@ -2508,6 +2512,44 @@
       "id": "bd0c632c-ddcb-46cc-854c-5023ae90c87c",
       "createdAt": "2026-09-15T07:19:18.776Z",
       "updatedAt": "2026-09-15T07:19:18.776Z",
+      "reminded": []
+    },
+    {
+      "type": "presentation",
+      "company": "芯联集成",
+      "position": "",
+      "date": "2026-09-21",
+      "startTime": "19:10",
+      "endTime": null,
+      "partOfDay": null,
+      "method": "线下",
+      "platform": "",
+      "location": "翔安校区 1号楼B207室",
+      "classroom": "",
+      "meetingUrl": "",
+      "links": [],
+      "meetingId": "",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "暂无明确待办"
+      ],
+      "warnings": [],
+      "lowConfFields": [],
+      "conf": {
+        "company": "高",
+        "date": "高",
+        "startTime": "高",
+        "method": "中",
+        "location": "高"
+      },
+      "raw": "芯联集成2027届校园招聘·厦门大学站\n一宣讲会:\n时间:9月21日 19:10\n翔安校区1号楼B207室",
+      "inputRaw": "芯联集成2027届校园招聘·厦门大学站\n一宣讲会：\n时间：9月21日 19：10\n翔安校区1号楼B207室",
+      "status": "已确认",
+      "id": "e50e6b8f-a3a8-443c-a61d-249ac518ed7a",
+      "createdAt": "2026-09-15T09:09:37.374Z",
+      "updatedAt": "2026-09-15T09:09:37.374Z",
       "reminded": []
     }
   ],
