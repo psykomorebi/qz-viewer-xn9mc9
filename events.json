@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T07:18:19.455Z",
+  "updatedAt": "2026-09-15T07:19:20.282Z",
   "events": [
     {
       "type": "interview",
@@ -2470,6 +2470,44 @@
       "id": "9bbb1b91-5253-4d76-a3c9-8445ba72ce79",
       "createdAt": "2026-09-15T07:18:17.943Z",
       "updatedAt": "2026-09-15T07:18:17.943Z",
+      "reminded": []
+    },
+    {
+      "type": "presentation",
+      "company": "海辰储能",
+      "position": "",
+      "date": "2026-09-18",
+      "startTime": "19:00",
+      "endTime": null,
+      "partOfDay": null,
+      "method": "线下",
+      "platform": "",
+      "location": "翔安校区学武楼(1号楼)C107",
+      "classroom": "",
+      "meetingUrl": "",
+      "links": [],
+      "meetingId": "",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "暂无明确待办"
+      ],
+      "warnings": [],
+      "lowConfFields": [],
+      "conf": {
+        "company": "高",
+        "date": "高",
+        "startTime": "高",
+        "method": "中",
+        "location": "高"
+      },
+      "raw": "宣讲单位:厦门海辰储能科技股份有限公司\n时间: 9月18日19:00(周五)\n地点:翔安校区学武楼(1号楼)C107",
+      "inputRaw": "宣讲单位：厦门海辰储能科技股份有限公司\n时间： 9月18日19:00(周五)\n地点:翔安校区学武楼(1号楼)C107",
+      "status": "已确认",
+      "id": "bd0c632c-ddcb-46cc-854c-5023ae90c87c",
+      "createdAt": "2026-09-15T07:19:18.776Z",
+      "updatedAt": "2026-09-15T07:19:18.776Z",
       "reminded": []
     }
   ],
