@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T03:33:44.365Z",
+  "updatedAt": "2026-09-15T06:55:24.842Z",
   "events": [
     {
       "type": "interview",
@@ -463,8 +463,10 @@
       "status": "已确认",
       "id": "4548ee7e-3322-45b0-93c5-a45540d1e559",
       "createdAt": "2026-09-04T15:26:43.824Z",
-      "updatedAt": "2026-09-14T02:17:58.926Z",
-      "reminded": []
+      "updatedAt": "2026-09-15T04:59:44.220Z",
+      "reminded": [
+        "1789448400000"
+      ]
     },
     {
       "type": "presentation",
@@ -2392,6 +2394,44 @@
       "id": "ab4ce4c1-2668-43cd-8cb0-2389ce84dedf",
       "createdAt": "2026-09-15T03:33:42.849Z",
       "updatedAt": "2026-09-15T03:33:42.849Z",
+      "reminded": []
+    },
+    {
+      "type": "presentation",
+      "company": "长川科技",
+      "position": "",
+      "date": "2026-09-16",
+      "startTime": "14:30",
+      "endTime": null,
+      "partOfDay": null,
+      "method": "线下",
+      "platform": "",
+      "location": "翔安校区学武楼(1号楼) A107",
+      "classroom": "",
+      "meetingUrl": "",
+      "links": [],
+      "meetingId": "",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "暂无明确待办"
+      ],
+      "warnings": [],
+      "lowConfFields": [],
+      "conf": {
+        "company": "高",
+        "date": "高",
+        "startTime": "高",
+        "method": "中",
+        "location": "高"
+      },
+      "raw": "长川科技宣讲会,不见不散\n时间:9月16日周三14:30\n地点:翔安校区学武楼(1号楼)A107",
+      "inputRaw": "长川科技宣讲会，不见不散\n时间：9月16日周三14:30\n地点：翔安校区学武楼(1号楼)A107",
+      "status": "已确认",
+      "id": "d7e76848-93ca-4664-8ec8-88a48f93e388",
+      "createdAt": "2026-09-15T06:55:23.330Z",
+      "updatedAt": "2026-09-15T06:55:23.330Z",
       "reminded": []
     }
   ],
