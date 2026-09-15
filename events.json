@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T06:55:24.842Z",
+  "updatedAt": "2026-09-15T07:18:19.455Z",
   "events": [
     {
       "type": "interview",
@@ -2432,6 +2432,44 @@
       "id": "d7e76848-93ca-4664-8ec8-88a48f93e388",
       "createdAt": "2026-09-15T06:55:23.330Z",
       "updatedAt": "2026-09-15T06:55:23.330Z",
+      "reminded": []
+    },
+    {
+      "type": "presentation",
+      "company": "鹏新旭",
+      "position": "",
+      "date": "2026-09-15",
+      "startTime": "19:10",
+      "endTime": "20:40",
+      "partOfDay": null,
+      "method": "线下",
+      "platform": "",
+      "location": "学武楼(1号楼)C304",
+      "classroom": "",
+      "meetingUrl": "",
+      "links": [],
+      "meetingId": "",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "暂无明确待办"
+      ],
+      "warnings": [],
+      "lowConfFields": [],
+      "conf": {
+        "company": "高",
+        "date": "高",
+        "startTime": "高",
+        "method": "中",
+        "location": "高"
+      },
+      "raw": "深圳鹏新旭技术有限公司2027届校招火热开启,共赴锦绣“芯”程,携手开创\n\"芯\"时代!\n厦门大学立站】\n宣讲会时间:9月15日(本周二)19:10-20:40\n宣讲地点:厦门大学【翔安校区】学武楼(1号楼)C304",
+      "inputRaw": "深圳鹏新旭技术有限公司2027届校招火热开启，共赴锦绣“芯”程，携手开创\n\"芯\"时代！\n厦门大学立站】\n宣讲会时间：9月15日(本周二)19:10-20:40\n宣讲地点：厦门大学【翔安校区】学武楼(1号楼)C304",
+      "status": "已确认",
+      "id": "9bbb1b91-5253-4d76-a3c9-8445ba72ce79",
+      "createdAt": "2026-09-15T07:18:17.943Z",
+      "updatedAt": "2026-09-15T07:18:17.943Z",
       "reminded": []
     }
   ],
