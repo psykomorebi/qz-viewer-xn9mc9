@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T09:09:38.890Z",
+  "updatedAt": "2026-09-15T15:19:04.735Z",
   "events": [
     {
       "type": "interview",
@@ -2556,7 +2556,8 @@
   "settings": {
     "remindersEnabled": true,
     "leadTimesMinutes": [
-      120
+      1440,
+      60
     ]
   }
 }
