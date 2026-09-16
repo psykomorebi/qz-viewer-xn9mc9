@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T08:29:08.933Z",
+  "updatedAt": "2026-09-16T08:37:13.376Z",
   "events": [
     {
       "type": "interview",
@@ -2597,6 +2597,43 @@
       "id": "27a6937f-d8a7-4494-833a-d9b707d7ea1d",
       "createdAt": "2026-09-16T08:29:07.327Z",
       "updatedAt": "2026-09-16T08:29:07.327Z",
+      "reminded": []
+    },
+    {
+      "type": "presentation",
+      "company": "苏纳光电",
+      "position": "",
+      "date": "2026-09-21",
+      "startTime": "19:10",
+      "endTime": "21:00",
+      "partOfDay": null,
+      "method": "线下",
+      "platform": "",
+      "location": "学武楼(1号楼)A306",
+      "classroom": "",
+      "meetingUrl": "",
+      "links": [],
+      "meetingId": "",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "暂无明确待办"
+      ],
+      "warnings": [],
+      "lowConfFields": [],
+      "conf": {
+        "date": "高",
+        "startTime": "高",
+        "method": "中",
+        "location": "高"
+      },
+      "raw": "宣讲会:苏纳光电\n2026/9/21(周一) ● 厦门大学(翔安校区)\n19:10-21:00 学武楼(1号楼)A306",
+      "inputRaw": "宣讲会：苏纳光电\n2026/9/21(周一) ● 厦门大学(翔安校区)\n19:10-21:00 学武楼(1号楼)A306",
+      "status": "已确认",
+      "id": "1c064918-9175-4de4-a974-a0c3367de9f7",
+      "createdAt": "2026-09-16T08:37:11.858Z",
+      "updatedAt": "2026-09-16T08:37:11.858Z",
       "reminded": []
     }
   ],
