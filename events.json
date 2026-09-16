@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T09:44:27.141Z",
+  "updatedAt": "2026-09-16T13:33:37.024Z",
   "events": [
     {
       "type": "interview",
@@ -2689,13 +2689,57 @@
       "createdAt": "2026-09-16T08:51:54.750Z",
       "updatedAt": "2026-09-16T08:51:54.750Z",
       "reminded": []
+    },
+    {
+      "type": "interview",
+      "company": "中建八局上海公司",
+      "position": "未定",
+      "date": "2026-09-17",
+      "startTime": "09:40",
+      "endTime": "",
+      "partOfDay": null,
+      "method": "未知",
+      "platform": "企业微信",
+      "location": "",
+      "classroom": "",
+      "meetingUrl": "",
+      "links": [],
+      "meetingId": "871-704-739",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "暂无明确待办"
+      ],
+      "warnings": [
+        {
+          "level": "note",
+          "field": "method",
+          "message": "面试方式未识别，请确认是线上/线下/电话"
+        }
+      ],
+      "lowConfFields": [
+        "position"
+      ],
+      "conf": {
+        "company": "高",
+        "date": "高",
+        "startTime": "高",
+        "position": "低"
+      },
+      "raw": "好滴,这是会议链接,请查收:\n会议主题: 中建八局上海公司招聘面试\n会议时间:2026/09/1709:00-12:00\n发起人:张胜祥(210A2520)\n会议 链接: https:// work.weixin.qq.co m/webapp/tm/g41OdyX8 wn4ac6JI1T9yDk\n#会议号:871-704-739",
+      "inputRaw": "好滴，这是会议链接，请查收:\n会议主题: 中建八局上海公司招聘面试\n会议时间:2026/09/1709:00-12:00\n发起人:张胜祥(210A2520)\n会 议 链 接: https:// work.weixin.qq.co m/webapp/tm/g41OdyX8 wn4ac6JI1T9yDk\n#会议号:871-704-739",
+      "status": "已确认",
+      "id": "35362232-5bf8-4d64-ba40-2f87b4d9eebc",
+      "createdAt": "2026-09-16T13:33:35.500Z",
+      "updatedAt": "2026-09-16T13:33:35.500Z",
+      "reminded": []
     }
   ],
   "settings": {
     "remindersEnabled": true,
     "leadTimesMinutes": [
-      1440,
-      60
+      120
     ]
   }
 }
