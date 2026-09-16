@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T08:37:13.376Z",
+  "updatedAt": "2026-09-16T08:38:53.557Z",
   "events": [
     {
       "type": "interview",
@@ -2524,15 +2524,15 @@
     },
     {
       "type": "presentation",
-      "company": "芯联集成",
+      "company": "芯联集成-宣讲会+双选会",
       "position": "",
       "date": "2026-09-21",
       "startTime": "19:10",
       "endTime": null,
       "partOfDay": null,
       "method": "线下",
-      "platform": "",
-      "location": "翔安校区 1号楼B207室",
+      "platform": "14:00---翔安校区爱秋体育馆",
+      "location": "学武楼（1号楼 ）B207",
       "classroom": "",
       "meetingUrl": "",
       "links": [],
@@ -2557,7 +2557,7 @@
       "status": "已确认",
       "id": "e50e6b8f-a3a8-443c-a61d-249ac518ed7a",
       "createdAt": "2026-09-15T09:09:37.374Z",
-      "updatedAt": "2026-09-15T09:09:37.374Z",
+      "updatedAt": "2026-09-16T08:38:52.041Z",
       "reminded": []
     },
     {
