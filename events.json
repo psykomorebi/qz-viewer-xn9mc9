@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T15:19:04.735Z",
+  "updatedAt": "2026-09-16T08:29:08.933Z",
   "events": [
     {
       "type": "interview",
@@ -1122,8 +1122,10 @@
       "status": "已确认",
       "id": "eb307fa4-5a26-4cd5-ad61-16c25eec174d",
       "createdAt": "2026-09-08T11:26:40.708Z",
-      "updatedAt": "2026-09-14T15:15:06.943Z",
-      "reminded": []
+      "updatedAt": "2026-09-16T04:29:47.388Z",
+      "reminded": [
+        "1789533000000"
+      ]
     },
     {
       "type": "interview",
@@ -1163,8 +1165,10 @@
       "status": "已确认",
       "id": "15dbb7d6-3db6-413f-a751-a3d54f645ca3",
       "createdAt": "2026-09-08T11:26:40.708Z",
-      "updatedAt": "2026-09-14T15:15:00.152Z",
-      "reminded": []
+      "updatedAt": "2026-09-16T05:59:48.798Z",
+      "reminded": [
+        "1789538400000"
+      ]
     },
     {
       "type": "interview",
@@ -1788,8 +1792,10 @@
       "status": "已确认",
       "id": "35c985d0-3cd1-40e6-b198-813805b23799",
       "createdAt": "2026-09-11T09:44:20.351Z",
-      "updatedAt": "2026-09-11T09:44:20.351Z",
-      "reminded": []
+      "updatedAt": "2026-09-16T06:29:49.206Z",
+      "reminded": [
+        "1789540200000"
+      ]
     },
     {
       "type": "待确认",
@@ -2435,8 +2441,10 @@
       "status": "已确认",
       "id": "d7e76848-93ca-4664-8ec8-88a48f93e388",
       "createdAt": "2026-09-15T06:55:23.330Z",
-      "updatedAt": "2026-09-15T06:55:23.330Z",
-      "reminded": []
+      "updatedAt": "2026-09-16T04:29:47.400Z",
+      "reminded": [
+        "1789533000000"
+      ]
     },
     {
       "type": "presentation",
@@ -2551,13 +2559,51 @@
       "createdAt": "2026-09-15T09:09:37.374Z",
       "updatedAt": "2026-09-15T09:09:37.374Z",
       "reminded": []
+    },
+    {
+      "type": "presentation",
+      "company": "上海芯源创新中心",
+      "position": "",
+      "date": "2026-09-18",
+      "startTime": "14:00",
+      "endTime": "17:00",
+      "partOfDay": null,
+      "method": "线下",
+      "platform": "",
+      "location": "学武楼(1号楼)C105",
+      "classroom": "",
+      "meetingUrl": "",
+      "links": [],
+      "meetingId": "",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "暂无明确待办"
+      ],
+      "warnings": [],
+      "lowConfFields": [],
+      "conf": {
+        "company": "高",
+        "date": "高",
+        "startTime": "高",
+        "method": "中",
+        "location": "高",
+        "meetingUrl": "中"
+      },
+      "raw": "上海芯源创新中心\n宣讲会时间:9月18日(周五)14:00-17:00\n宣讲地点:厦门大学翔安校区学武楼(1号楼)C105\n宣讲 会报名链 接: https://zgkwonline.dtxbzp.co m/#/activity/detail/\nfcf90208aOaed903\n(可扫描海报【宣讲会报名】二维码)\n联系方式\n招聘负责人:徐宇轩\n人才引进专线: 13345568901\n人才引进邮箱: xyxiaozhao2027@shhxinyuan.cn\n期待与各位同学携手,共筑芯业末来! 祝大家校招顺利,拿下理想ofer!",
+      "inputRaw": "上海芯源创新中心\n宣讲会时间：9月18日(周五)14:00-17:00\n宣讲地点:厦门大学翔安校区学武楼(1号楼)C105\n宣 讲 会 报名 链 接： https://zgkwonline.dtxbzp.co m/#/activity/detail/\nfcf90208aOaed903\n(可扫描海报【宣讲会报名】二维码)\n联系方式\n招聘负责人:徐宇轩\n人 才引 进专线: 13345568901\n人才引进邮箱： xyxiaozhao2027@shhxinyuan.cn\n期待与各位同学携手，共筑芯业末来! 祝大家校招顺利，拿下理想ofer!",
+      "status": "已确认",
+      "id": "27a6937f-d8a7-4494-833a-d9b707d7ea1d",
+      "createdAt": "2026-09-16T08:29:07.327Z",
+      "updatedAt": "2026-09-16T08:29:07.327Z",
+      "reminded": []
     }
   ],
   "settings": {
     "remindersEnabled": true,
     "leadTimesMinutes": [
-      1440,
-      60
+      120
     ]
   }
 }
