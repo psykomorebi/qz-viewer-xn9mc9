@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T08:39:20.196Z",
+  "updatedAt": "2026-09-16T08:39:48.327Z",
   "events": [
     {
       "type": "interview",
@@ -2531,7 +2531,7 @@
       "endTime": null,
       "partOfDay": null,
       "method": "线下",
-      "platform": "",
+      "platform": "14:00---翔安校区爱秋体育馆",
       "location": "学武楼（1号楼 ）B207",
       "classroom": "",
       "meetingUrl": "",
@@ -2539,7 +2539,7 @@
       "meetingId": "",
       "password": "",
       "needRegister": "未知",
-      "registerDeadline": "14:00---翔安校区爱秋体育馆",
+      "registerDeadline": "",
       "todos": [
         "暂无明确待办"
       ],
@@ -2557,7 +2557,7 @@
       "status": "已确认",
       "id": "e50e6b8f-a3a8-443c-a61d-249ac518ed7a",
       "createdAt": "2026-09-15T09:09:37.374Z",
-      "updatedAt": "2026-09-16T08:39:18.693Z",
+      "updatedAt": "2026-09-16T08:39:46.811Z",
       "reminded": []
     },
     {
