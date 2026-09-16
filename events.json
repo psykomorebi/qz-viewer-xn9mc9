@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T13:33:37.024Z",
+  "updatedAt": "2026-09-16T14:49:34.000Z",
   "events": [
     {
       "type": "interview",
@@ -2733,6 +2733,44 @@
       "id": "35362232-5bf8-4d64-ba40-2f87b4d9eebc",
       "createdAt": "2026-09-16T13:33:35.500Z",
       "updatedAt": "2026-09-16T13:33:35.500Z",
+      "reminded": []
+    },
+    {
+      "type": "presentation",
+      "company": "芯联集成",
+      "position": "",
+      "date": "2026-09-20",
+      "startTime": "19:10",
+      "endTime": "21:00",
+      "partOfDay": null,
+      "method": "线下",
+      "platform": "",
+      "location": "学武楼(1号楼)A105",
+      "classroom": "",
+      "meetingUrl": "",
+      "links": [],
+      "meetingId": "",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "暂无明确待办"
+      ],
+      "warnings": [],
+      "lowConfFields": [],
+      "conf": {
+        "company": "高",
+        "date": "高",
+        "startTime": "高",
+        "method": "中",
+        "location": "高"
+      },
+      "raw": "【宣讲会邀请函】\n芯联集成2027届校园招聘·厦门大学站\n宣讲会:\n★时间:9月20日19:10-21:00\n翔安校区学武楼(1号楼)A105",
+      "inputRaw": "【宣讲会邀请函】\n芯联集成2027届校园招聘·厦门大学站\n宣讲会：\n★时间：9月20日19:10-21:00\n翔安校区学武楼(1号楼)A105",
+      "status": "已确认",
+      "id": "563d069a-42b2-482e-81b4-057e7ae74470",
+      "createdAt": "2026-09-16T14:49:32.490Z",
+      "updatedAt": "2026-09-16T14:49:32.490Z",
       "reminded": []
     }
   ],
