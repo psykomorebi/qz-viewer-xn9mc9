@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T15:43:22.549Z",
+  "updatedAt": "2026-09-17T01:20:44.204Z",
   "events": [
     {
       "type": "interview",
@@ -2772,13 +2772,50 @@
       "createdAt": "2026-09-16T14:49:32.490Z",
       "updatedAt": "2026-09-16T14:49:32.490Z",
       "reminded": []
+    },
+    {
+      "type": "presentation",
+      "company": "增芯科技",
+      "position": "",
+      "date": "2026-09-22",
+      "startTime": "19:10",
+      "endTime": "21:10",
+      "partOfDay": null,
+      "method": "线下",
+      "platform": "",
+      "location": "学武楼(1号楼) A201",
+      "classroom": "",
+      "meetingUrl": "",
+      "links": [],
+      "meetingId": "",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "暂无明确待办"
+      ],
+      "warnings": [],
+      "lowConfFields": [],
+      "conf": {
+        "company": "高",
+        "date": "高",
+        "startTime": "高",
+        "method": "高",
+        "location": "高"
+      },
+      "raw": "感谢您投递工艺工程师【2027校招】职位,现邀请您参与增芯科技2027校招\n线下宣讲会—一福建专场,宣讲会信息如下:\n地点:厦门大学(翔安校区)学武楼(1号楼)A201\n时间:2026年9月22日晚19:10-21:10",
+      "inputRaw": "感谢您投递工艺工程师【2027校招】职位，现邀请您参与增芯科技2027校招\n线下宣讲会—一福建专场，宣讲会信息如下：\n地点：厦门大学(翔安校区)学武楼(1号楼)A201\n时间：2026年9月22日晚19:10-21:10",
+      "status": "已确认",
+      "id": "f4ddc6a6-4a05-4ec4-88b4-ff87e6ffc259",
+      "createdAt": "2026-09-17T01:20:42.684Z",
+      "updatedAt": "2026-09-17T01:20:42.684Z",
+      "reminded": []
     }
   ],
   "settings": {
     "remindersEnabled": true,
     "leadTimesMinutes": [
-      1440,
-      60
+      120
     ]
   }
 }
