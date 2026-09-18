@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T08:55:18.357Z",
+  "updatedAt": "2026-09-18T09:02:54.367Z",
   "events": [
     {
       "type": "interview",
@@ -2533,8 +2533,10 @@
       "status": "已确认",
       "id": "bd0c632c-ddcb-46cc-854c-5023ae90c87c",
       "createdAt": "2026-09-15T07:19:18.776Z",
-      "updatedAt": "2026-09-15T07:19:18.776Z",
-      "reminded": []
+      "updatedAt": "2026-09-18T08:59:46.949Z",
+      "reminded": [
+        "1789722000000"
+      ]
     },
     {
       "type": "presentation",
@@ -2861,7 +2863,8 @@
   "settings": {
     "remindersEnabled": true,
     "leadTimesMinutes": [
-      120
+      1440,
+      60
     ]
   }
 }
