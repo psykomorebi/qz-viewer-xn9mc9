@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T14:13:18.958Z",
+  "updatedAt": "2026-09-20T14:27:52.075Z",
   "events": [
     {
       "type": "interview",
@@ -2858,13 +2858,60 @@
       "createdAt": "2026-09-18T08:55:16.852Z",
       "updatedAt": "2026-09-18T08:55:16.852Z",
       "reminded": []
+    },
+    {
+      "type": "interview",
+      "company": "星源材质",
+      "position": "研发工程师-前沿/工艺工程师",
+      "date": "2026-09-21",
+      "startTime": "14:00",
+      "endTime": "14:30",
+      "partOfDay": null,
+      "method": "线上",
+      "platform": "",
+      "location": "",
+      "classroom": "",
+      "meetingUrl": "https://meeting.dingtalk.com/j/XjsPI5USMgQ",
+      "links": [
+        {
+          "label": "其他链接",
+          "url": "https://meeting.dingtalk.com/j/XjsPI5USMgQ"
+        }
+      ],
+      "meetingId": "",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "暂无明确待办"
+      ],
+      "warnings": [
+        {
+          "level": "note",
+          "field": "method",
+          "message": "面试方式未识别，请确认是线上/线下/电话"
+        }
+      ],
+      "lowConfFields": [],
+      "conf": {
+        "company": "高",
+        "date": "高",
+        "startTime": "高",
+        "meetingUrl": "中"
+      },
+      "raw": "接受:来自深圳市星源材质科技股份有限公司的面试邀请\n会议邀请\n2026-9-21 周一 14:00~14:30\nhttps://meeting.dingtalk.com/j/XjsPI5USMgQ 无会 议室",
+      "inputRaw": "接受：来自深圳市星源材质科技股份有限公司的面试邀请\n会议邀请\n2026-9-21 周一 14:00~14:30\nhttps://meeting.dingtalk.com/j/XjsPI5USMgQ 无 会 议室",
+      "status": "已确认",
+      "id": "695bd021-996e-4e0a-990d-9ed69c1da7c3",
+      "createdAt": "2026-09-20T14:27:50.559Z",
+      "updatedAt": "2026-09-20T14:27:50.559Z",
+      "reminded": []
     }
   ],
   "settings": {
     "remindersEnabled": true,
     "leadTimesMinutes": [
-      1440,
-      60
+      120
     ]
   }
 }
