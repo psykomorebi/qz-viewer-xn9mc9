@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T14:27:52.075Z",
+  "updatedAt": "2026-09-20T14:28:57.634Z",
   "events": [
     {
       "type": "interview",
@@ -2905,6 +2905,51 @@
       "id": "695bd021-996e-4e0a-990d-9ed69c1da7c3",
       "createdAt": "2026-09-20T14:27:50.559Z",
       "updatedAt": "2026-09-20T14:27:50.559Z",
+      "reminded": []
+    },
+    {
+      "type": "interview",
+      "company": "渠梁电子",
+      "position": "制程整合工程师",
+      "date": "2026-09-21",
+      "startTime": "11:00",
+      "endTime": null,
+      "partOfDay": null,
+      "method": "线上",
+      "platform": "腾讯会议",
+      "location": "会议信息",
+      "classroom": "",
+      "meetingUrl": "https://meeting.tencent.com/dm/BFHWiUmsdit4",
+      "links": [
+        {
+          "label": "会议链接",
+          "url": "https://meeting.tencent.com/dm/BFHWiUmsdit4"
+        }
+      ],
+      "meetingId": "632433622",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "暂无明确待办"
+      ],
+      "warnings": [],
+      "lowConfFields": [],
+      "conf": {
+        "company": "高",
+        "date": "高",
+        "startTime": "高",
+        "method": "高",
+        "platform": "高",
+        "location": "高",
+        "meetingUrl": "中"
+      },
+      "raw": "感谢您对渠梁电子的关注.很高兴收到您的简历,现诚挚邀请您参加我司制程整合工程师(2\n027届校招)面试.\n面试日期:2026-09-21周一\n面试时间:11:00\n面试方式:视频面试\n面试地点:\n会议信息\n您可以通过如下方式参与视频面试\n面试地 址: https:// meetinq.tencent.com/dm/BFH WijUmsdit4\n腾讯会议ID:632433622\nhttps://meeting.tencent.com/dm/BFHWiUmsdit4\n联系人:渠梁HR\n期待您的答复: https://bsurl.cn/KOggFEv8有任何变动请随时告知.",
+      "inputRaw": "感谢您对渠梁电子的关注。很高兴收到您的简历，现诚挚邀请您参加我司制程整合工程师(2\n027届校招)面试。\n面试日期：2026-09-21周一\n面试时间：11:00\n面试方式：视频面试\n面试地点：\n会议信息\n您可以通过如下方式参与视频面试\n面试 地 址： https:// meetinq.tencent.com/dm/BFH WijUmsdit4\n腾讯会议ID:632433622\nhttps://meeting.tencent.com/dm/BFHWiUmsdit4\n联系人：渠梁HR\n期待您的答复： https://bsurl.cn/KOggFEv8有 任何变动请随时告知。",
+      "status": "已确认",
+      "id": "267963e7-0672-45b4-a610-2fa8820d8b9a",
+      "createdAt": "2026-09-20T14:28:56.125Z",
+      "updatedAt": "2026-09-20T14:28:56.125Z",
       "reminded": []
     }
   ],
