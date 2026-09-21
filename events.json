@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T07:24:35.704Z",
+  "updatedAt": "2026-09-21T07:26:56.495Z",
   "events": [
     {
       "type": "interview",
@@ -3035,6 +3035,51 @@
       "id": "c48f80d4-1e73-4925-bb83-5bec00083574",
       "createdAt": "2026-09-21T07:24:34.187Z",
       "updatedAt": "2026-09-21T07:24:34.187Z",
+      "reminded": []
+    },
+    {
+      "type": "presentation",
+      "company": "浪潮",
+      "position": "",
+      "date": "2026-09-23",
+      "startTime": "14:30",
+      "endTime": null,
+      "partOfDay": null,
+      "method": "未知",
+      "platform": "",
+      "location": "坤銮楼(2号楼)A204",
+      "classroom": "",
+      "meetingUrl": "",
+      "links": [],
+      "meetingId": "",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "暂无明确待办"
+      ],
+      "warnings": [
+        {
+          "level": "error",
+          "field": "date",
+          "message": "未识别到活动日期，请查看原通知确认"
+        },
+        {
+          "level": "warn",
+          "field": "location",
+          "message": "未识别到活动地点或线上链接"
+        }
+      ],
+      "lowConfFields": [],
+      "conf": {
+        "company": "高"
+      },
+      "raw": "浪潮集团宣讲会将于9且23日开讲",
+      "inputRaw": "浪潮集团宣讲会将于9且23日开讲，并于9月20日安排线上面试!建议大家积极参加宣讲会，并【提前网申】！\n宣讲时间：9月23日 (星期三)下午14:30\n宣讲地点:【厦门大学翔安校区】坤銮楼(2号楼)A204\n现场有雷蛇机械键盘、罗技人体工学鼠标、充电套装奖品！更有我校校友、浪潮HR为大家答疑解惑！",
+      "status": "已确认",
+      "id": "a0b3224e-6441-42c5-bf81-97a65904c9a7",
+      "createdAt": "2026-09-21T07:26:54.987Z",
+      "updatedAt": "2026-09-21T07:26:54.987Z",
       "reminded": []
     }
   ],
