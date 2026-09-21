@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T07:21:11.552Z",
+  "updatedAt": "2026-09-21T07:24:35.704Z",
   "events": [
     {
       "type": "interview",
@@ -2996,6 +2996,45 @@
       "id": "dc0ee0ad-fecb-4a97-a4b8-aeb1b5c4e19d",
       "createdAt": "2026-09-21T07:21:10.043Z",
       "updatedAt": "2026-09-21T07:21:10.043Z",
+      "reminded": []
+    },
+    {
+      "type": "presentation",
+      "company": "ATL宁德新能源",
+      "position": "",
+      "date": "2026-10-14",
+      "startTime": "19:00",
+      "endTime": null,
+      "partOfDay": null,
+      "method": "线下",
+      "platform": "",
+      "location": "能源学院和木楼A栋221报告厅会议室",
+      "classroom": "",
+      "meetingUrl": "",
+      "links": [],
+      "meetingId": "",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "暂无明确待办"
+      ],
+      "warnings": [],
+      "lowConfFields": [],
+      "conf": {
+        "company": "高",
+        "date": "高",
+        "startTime": "高",
+        "method": "中",
+        "location": "高",
+        "meetingUrl": "中"
+      },
+      "raw": "ATL宁德新能源2027全球校招厦门大学站正式启动\n我们是领跑行业的聚合物锂离子电池供应商;\n全球拥有雇员超过35000余人;\n年销售额超过500亿人民币;\n热招专业:物理,化学,材料,高分子等理化材料大类,机械,电气,自动化,计算机,AI/算法等理工科大类专业\n工作地点:福建宁德,广东东莞(花园湖景公寓)\n本科:20-31万\n硕士: 25-49W/年\n博士:47W/年-Li想薪酬不上限\nu 网申地址: https://zhaopin.atlbattery.com\n宣讲时间:10月14日19:00\n宣讲地点:能源学院和木楼A栋221报告厅会议室(翔安校区)\n期待大家的到来,不见不散.",
+      "inputRaw": "ATL宁德新能源2027全球校招厦门大学站正式启动\n我们是领跑行业的聚合物锂离子电池供应商；\n全球拥有雇员超过35000余人；\n年销售额超过500亿人民币；\n热招专业：物理、化学、材料、高分子等理化材料大类，机械、电气、自动化、计算机、AI/算法等理工科大类专业\n工作地点：福建宁德、广东东莞(花园湖景公寓)\n④薪资福利：\n本科：20-31万\n硕士： 25-49W/年\n博士：47W/年-Li想薪酬不上限\nu 网申地 址： https://zhaopin.atlbattery.com\n宣讲时间:10月14日19:00\n宣讲地点:能源学院和木楼A栋221报告厅会议室(翔安校区)\n期待大家的到来，不见不散。\n【内推通道】\n校园大使专属内推码「rllxqy」",
+      "status": "已确认",
+      "id": "c48f80d4-1e73-4925-bb83-5bec00083574",
+      "createdAt": "2026-09-21T07:24:34.187Z",
+      "updatedAt": "2026-09-21T07:24:34.187Z",
       "reminded": []
     }
   ],
