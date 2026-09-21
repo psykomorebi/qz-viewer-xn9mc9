@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T09:01:31.053Z",
+  "updatedAt": "2026-09-21T09:08:22.373Z",
   "events": [
     {
       "type": "interview",
@@ -3118,13 +3118,57 @@
       "createdAt": "2026-09-21T09:00:37.614Z",
       "updatedAt": "2026-09-21T09:00:37.614Z",
       "reminded": []
+    },
+    {
+      "type": "presentation",
+      "company": "天马微电子",
+      "position": "",
+      "date": "2026-09-21",
+      "startTime": "19:00",
+      "endTime": null,
+      "partOfDay": "今晚",
+      "method": "线下",
+      "platform": "",
+      "location": "学武楼1号楼C305",
+      "classroom": "",
+      "meetingUrl": "",
+      "links": [],
+      "meetingId": "",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "暂无明确待办"
+      ],
+      "warnings": [
+        {
+          "level": "error",
+          "field": "date",
+          "message": "未识别到活动日期，请查看原通知确认"
+        }
+      ],
+      "lowConfFields": [
+        "company"
+      ],
+      "conf": {
+        "company": "低",
+        "startTime": "高",
+        "method": "中",
+        "location": "高"
+      },
+      "raw": "今晚19:00在翔安校区学武楼1号楼C305举行宣讲会",
+      "inputRaw": "今晚19：00在翔安校区学武楼1号楼C305举行宣讲会，欢迎有意向在翔安校区面试的同学参加～ 本周三将在翔安校区学武楼举行线下面试",
+      "status": "已确认",
+      "id": "23c04aec-a3bf-450e-8608-d22827f01c18",
+      "createdAt": "2026-09-21T09:08:20.856Z",
+      "updatedAt": "2026-09-21T09:08:20.856Z",
+      "reminded": []
     }
   ],
   "settings": {
     "remindersEnabled": true,
     "leadTimesMinutes": [
-      1440,
-      60
+      120
     ]
   }
 }
