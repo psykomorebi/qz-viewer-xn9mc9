@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T08:36:26.874Z",
+  "updatedAt": "2026-09-21T09:00:39.119Z",
   "events": [
     {
       "type": "interview",
@@ -3081,13 +3081,49 @@
       "createdAt": "2026-09-21T07:26:54.987Z",
       "updatedAt": "2026-09-21T07:26:54.987Z",
       "reminded": []
+    },
+    {
+      "type": "presentation",
+      "company": "卓胜微",
+      "position": "",
+      "date": "2026-09-22",
+      "startTime": "19:00",
+      "endTime": null,
+      "partOfDay": "晚上",
+      "method": "线下",
+      "platform": "",
+      "location": "学武楼(1号楼)B211",
+      "classroom": "",
+      "meetingUrl": "",
+      "links": [],
+      "meetingId": "",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "暂无明确待办"
+      ],
+      "warnings": [],
+      "lowConfFields": [],
+      "conf": {
+        "date": "中",
+        "startTime": "高",
+        "method": "中",
+        "location": "高"
+      },
+      "raw": "9.22(周二)晚上19:00【\n卓胜微厦门大学专场宣讲会\n翔安校区学武楼(1号楼)B211",
+      "inputRaw": "9.22(周二)晚上19:00【\n卓胜微厦门大学专场宣讲会\n翔安校区学武楼(1号楼)B211",
+      "status": "已确认",
+      "id": "b419d8fe-4c8e-4e81-a8e4-016cfa6f47ce",
+      "createdAt": "2026-09-21T09:00:37.614Z",
+      "updatedAt": "2026-09-21T09:00:37.614Z",
+      "reminded": []
     }
   ],
   "settings": {
     "remindersEnabled": true,
     "leadTimesMinutes": [
-      1440,
-      60
+      120
     ]
   }
 }
