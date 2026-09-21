@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T14:28:57.634Z",
+  "updatedAt": "2026-09-21T07:21:11.552Z",
   "events": [
     {
       "type": "interview",
@@ -1919,8 +1919,10 @@
       "status": "已确认",
       "id": "40be21a9-97a8-4390-bea0-4da008170e60",
       "createdAt": "2026-09-12T08:20:34.450Z",
-      "updatedAt": "2026-09-12T08:20:34.450Z",
-      "reminded": []
+      "updatedAt": "2026-09-21T04:29:35.625Z",
+      "reminded": [
+        "1789965000000"
+      ]
     },
     {
       "type": "interview",
@@ -2573,8 +2575,10 @@
       "status": "已确认",
       "id": "e50e6b8f-a3a8-443c-a61d-249ac518ed7a",
       "createdAt": "2026-09-15T09:09:37.374Z",
-      "updatedAt": "2026-09-16T14:58:28.645Z",
-      "reminded": []
+      "updatedAt": "2026-09-21T03:59:35.000Z",
+      "reminded": [
+        "1789963200000"
+      ]
     },
     {
       "type": "presentation",
@@ -2904,8 +2908,10 @@
       "status": "已确认",
       "id": "695bd021-996e-4e0a-990d-9ed69c1da7c3",
       "createdAt": "2026-09-20T14:27:50.559Z",
-      "updatedAt": "2026-09-20T14:27:50.559Z",
-      "reminded": []
+      "updatedAt": "2026-09-21T03:59:35.007Z",
+      "reminded": [
+        "1789963200000"
+      ]
     },
     {
       "type": "interview",
@@ -2949,7 +2955,47 @@
       "status": "已确认",
       "id": "267963e7-0672-45b4-a610-2fa8820d8b9a",
       "createdAt": "2026-09-20T14:28:56.125Z",
-      "updatedAt": "2026-09-20T14:28:56.125Z",
+      "updatedAt": "2026-09-21T00:59:31.554Z",
+      "reminded": [
+        "1789952400000"
+      ]
+    },
+    {
+      "type": "presentation",
+      "company": "OPPO",
+      "position": "",
+      "date": "2026-09-23",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "partOfDay": null,
+      "method": "线下",
+      "platform": "",
+      "location": "学武楼(1号楼)A202",
+      "classroom": "",
+      "meetingUrl": "",
+      "links": [],
+      "meetingId": "",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "暂无明确待办"
+      ],
+      "warnings": [],
+      "lowConfFields": [],
+      "conf": {
+        "company": "高",
+        "date": "高",
+        "startTime": "高",
+        "method": "中",
+        "location": "高"
+      },
+      "raw": "OPPO2027届秋招厦门大学宣讲来啦!\n时间:9月23日 (周三)19:00-21:00\n地点:翔安校区学武楼(1号楼)A202",
+      "inputRaw": "OPPO2027届秋招厦门大学宣讲来啦！\n时间：9月23日 (周三)19:00-21:00\n地点：翔安校区学武楼(1号楼)A202\n【福利】Reno16手机、OPPO Enco Free4耳机、 精美周边、24小时简历加速筛选卡， 等你来！\n(亮点】业务&校友面对面交流、现场岗位匹配直推、薪资福利揭秘",
+      "status": "已确认",
+      "id": "dc0ee0ad-fecb-4a97-a4b8-aeb1b5c4e19d",
+      "createdAt": "2026-09-21T07:21:10.043Z",
+      "updatedAt": "2026-09-21T07:21:10.043Z",
       "reminded": []
     }
   ],
