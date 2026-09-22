@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T09:09:11.977Z",
+  "updatedAt": "2026-09-22T06:43:31.538Z",
   "events": [
     {
       "type": "interview",
@@ -629,8 +629,10 @@
       "status": "已确认",
       "id": "064c0e01-5ac7-4d12-9c72-ec3495656827",
       "createdAt": "2026-09-07T02:38:08.207Z",
-      "updatedAt": "2026-09-07T02:38:08.207Z",
-      "reminded": []
+      "updatedAt": "2026-09-22T04:29:51.241Z",
+      "reminded": [
+        "1790051400000"
+      ]
     },
     {
       "type": "presentation",
@@ -2653,8 +2655,10 @@
       "status": "已确认",
       "id": "1c064918-9175-4de4-a974-a0c3367de9f7",
       "createdAt": "2026-09-16T08:37:11.858Z",
-      "updatedAt": "2026-09-16T08:37:11.858Z",
-      "reminded": []
+      "updatedAt": "2026-09-21T09:09:40.497Z",
+      "reminded": [
+        "1789981800000"
+      ]
     },
     {
       "type": "interview",
@@ -3209,6 +3213,47 @@
       "id": "e9e6adc1-4674-4b15-863d-ac6a86ea9d83",
       "createdAt": "2026-09-21T09:09:10.461Z",
       "updatedAt": "2026-09-21T09:09:10.461Z",
+      "reminded": []
+    },
+    {
+      "type": "interview",
+      "company": "天马微电子股份",
+      "position": "工艺开发岗(上海)",
+      "date": "2026-09-23",
+      "startTime": "15:15",
+      "endTime": null,
+      "partOfDay": "下午",
+      "method": "线下",
+      "platform": "",
+      "location": "学武楼(1号楼)B407(上 午)/B304(下午)",
+      "classroom": "",
+      "meetingUrl": "",
+      "links": [],
+      "meetingId": "",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "暂无明确待办"
+      ],
+      "warnings": [],
+      "lowConfFields": [
+        "position"
+      ],
+      "conf": {
+        "company": "高",
+        "date": "高",
+        "startTime": "高",
+        "position": "低",
+        "method": "高",
+        "location": "高"
+      },
+      "raw": "天马微电子股份有限公司邀请您就工艺开发岗(上海)职位进行面试,请携带个人纸质版简历\n来现场进行面试\n面试时间: 2026年9月23日星期三15:15\n面试地点/链接: 福建厦门市翔安区厦门大学翔安校区学武楼(1号楼)B407(上\n午)/B304(下午)\nHR联系人:林江城",
+      "inputRaw": "天马微电子股份有限公司邀请您就工艺开发岗(上海)职位进行面试，请携带个人纸质版简历\n来现场进行面试\n面试时间： 2026年9月23日星期三15:15\n面试地点/链接： 福建厦门市翔安区厦门大学翔安校区学武楼(1号楼)B407(上\n午)/B304(下午)\nHR联系人：林江城",
+      "status": "已确认",
+      "id": "775da86e-aaf8-4a34-aea0-b7f0c879e9cf",
+      "createdAt": "2026-09-22T06:43:30.014Z",
+      "updatedAt": "2026-09-22T06:43:30.014Z",
       "reminded": []
     }
   ],
