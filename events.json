@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T06:43:31.538Z",
+  "updatedAt": "2026-09-22T06:44:05.521Z",
   "events": [
     {
       "type": "interview",
@@ -3166,53 +3166,6 @@
       "id": "23c04aec-a3bf-450e-8608-d22827f01c18",
       "createdAt": "2026-09-21T09:08:20.856Z",
       "updatedAt": "2026-09-21T09:08:20.856Z",
-      "reminded": []
-    },
-    {
-      "type": "interview",
-      "company": "天马微电子",
-      "position": "工艺开发岗（上海）/产品专案岗（上海）",
-      "date": "2026-09-23",
-      "startTime": null,
-      "endTime": null,
-      "partOfDay": null,
-      "method": "线下",
-      "platform": "",
-      "location": "学武楼",
-      "classroom": "",
-      "meetingUrl": "",
-      "links": [],
-      "meetingId": "",
-      "password": "",
-      "needRegister": "未知",
-      "registerDeadline": "",
-      "todos": [
-        "暂无明确待办"
-      ],
-      "warnings": [
-        {
-          "level": "warn",
-          "field": "startTime",
-          "message": "未识别到具体面试时间，请查看原通知确认"
-        }
-      ],
-      "lowConfFields": [
-        "company",
-        "position"
-      ],
-      "conf": {
-        "company": "低",
-        "date": "中",
-        "position": "低",
-        "method": "高",
-        "location": "中"
-      },
-      "raw": "欢迎有意向在翔安校区面试的同学参加~ 本周三将在翔安校区学武楼举行线下面试",
-      "inputRaw": "今晚19：00在翔安校区学武楼1号楼C305举行宣讲会，欢迎有意向在翔安校区面试的同学参加～ 本周三将在翔安校区学武楼举行线下面试",
-      "status": "已确认",
-      "id": "e9e6adc1-4674-4b15-863d-ac6a86ea9d83",
-      "createdAt": "2026-09-21T09:09:10.461Z",
-      "updatedAt": "2026-09-21T09:09:10.461Z",
       "reminded": []
     },
     {
