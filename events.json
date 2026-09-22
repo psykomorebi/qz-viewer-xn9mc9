@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T06:44:05.521Z",
+  "updatedAt": "2026-09-22T14:06:51.896Z",
   "events": [
     {
       "type": "interview",
@@ -2826,8 +2826,10 @@
       "status": "已确认",
       "id": "f4ddc6a6-4a05-4ec4-88b4-ff87e6ffc259",
       "createdAt": "2026-09-17T01:20:42.684Z",
-      "updatedAt": "2026-09-17T01:20:42.684Z",
-      "reminded": []
+      "updatedAt": "2026-09-22T09:09:39.347Z",
+      "reminded": [
+        "1790068200000"
+      ]
     },
     {
       "type": "presentation",
@@ -3120,8 +3122,10 @@
       "status": "已确认",
       "id": "b419d8fe-4c8e-4e81-a8e4-016cfa6f47ce",
       "createdAt": "2026-09-21T09:00:37.614Z",
-      "updatedAt": "2026-09-21T09:00:37.614Z",
-      "reminded": []
+      "updatedAt": "2026-09-22T08:59:39.212Z",
+      "reminded": [
+        "1790067600000"
+      ]
     },
     {
       "type": "presentation",
@@ -3213,7 +3217,8 @@
   "settings": {
     "remindersEnabled": true,
     "leadTimesMinutes": [
-      120
+      1440,
+      60
     ]
   }
 }
