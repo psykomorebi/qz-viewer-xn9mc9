@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T14:06:51.896Z",
+  "updatedAt": "2026-09-24T03:30:57.579Z",
   "events": [
     {
       "type": "interview",
@@ -3212,13 +3212,59 @@
       "createdAt": "2026-09-22T06:43:30.014Z",
       "updatedAt": "2026-09-22T06:43:30.014Z",
       "reminded": []
+    },
+    {
+      "type": "interview",
+      "company": "汇川技术",
+      "position": "工艺工程师",
+      "date": "2026-09-29",
+      "startTime": "10:30",
+      "endTime": "11:10",
+      "partOfDay": null,
+      "method": "线上",
+      "platform": "飞书",
+      "location": "",
+      "classroom": "",
+      "meetingUrl": "https://vc.feishu.cn/i/907202544",
+      "links": [
+        {
+          "label": "会议链接",
+          "url": "https://vc.feishu.cn/i/907202544"
+        }
+      ],
+      "meetingId": "https://vc.feishu.cn/j/907202544",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "暂无明确待办"
+      ],
+      "warnings": [],
+      "lowConfFields": [
+        "position"
+      ],
+      "conf": {
+        "company": "高",
+        "date": "高",
+        "startTime": "高",
+        "position": "低",
+        "method": "高",
+        "location": "高",
+        "meetingUrl": "中"
+      },
+      "raw": "庞志斌,您好!\n感谢您对汇川技术的关注.很高兴收到您的简历,现邀请您就【27校招-联合动力电子\n工艺工程师职位进行一次面试.\n面试日期:2026-09-29\n面试时间:10:30- 11:10\n面试方式:视频面试\n面试式地点: https://vc.feishu.cn/i/907202544\n请在约定时间前后预留0.5-1h时间,面试时间可能提前或者稍有延迟.如面试时间开始10分钟后,面试官\n未进入面试间或者末到场,请联系HR小伙伴.\n联系人:高冰心\n联系邮箱: gaobingxin@inovance.com",
+      "inputRaw": "庞志斌，您好！\n感谢您对汇川技术的关注。很高兴收到您的简历，现邀请您就【27校招-联合动力电子\n工艺工程师职位进行一次面试。\n面试日期：2026-09-29\n面试时间：10:30- 11:10\n面试方式：视频面试\n面 试式地 点: https://vc.feishu.cn/i/907202544\n请在约定时间前后预留0.5-1h时间，面试时间可能提前或者稍有延迟。如面试时间开始10分钟后，面试官\n未进入面试间或者末到场，请联系HR小伙伴。\n联系人:高冰心\n联系邮箱： gaobingxin@inovance.com",
+      "status": "已确认",
+      "id": "f5bed15e-b210-4bcf-bdeb-744e41f3cfc0",
+      "createdAt": "2026-09-24T03:30:56.068Z",
+      "updatedAt": "2026-09-24T03:30:56.068Z",
+      "reminded": []
     }
   ],
   "settings": {
     "remindersEnabled": true,
     "leadTimesMinutes": [
-      1440,
-      60
+      120
     ]
   }
 }
