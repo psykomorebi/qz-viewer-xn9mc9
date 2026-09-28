@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T03:30:57.579Z",
+  "updatedAt": "2026-09-28T10:57:50.557Z",
   "events": [
     {
       "type": "interview",
@@ -3258,6 +3258,53 @@
       "id": "f5bed15e-b210-4bcf-bdeb-744e41f3cfc0",
       "createdAt": "2026-09-24T03:30:56.068Z",
       "updatedAt": "2026-09-24T03:30:56.068Z",
+      "reminded": []
+    },
+    {
+      "type": "interview",
+      "company": "通威太阳能科技",
+      "position": "工艺整合（盐城）",
+      "date": "2026-10-08",
+      "startTime": "14:00",
+      "endTime": null,
+      "partOfDay": null,
+      "method": "线上",
+      "platform": "https://bsurl.cn/jRB08Bi8",
+      "location": "",
+      "classroom": "",
+      "meetingUrl": "https://bsurl.cn/jRB08Bi8",
+      "links": [
+        {
+          "label": "会议链接",
+          "url": "https://bsurl.cn/jRB08Bi8"
+        }
+      ],
+      "meetingId": "",
+      "password": "",
+      "needRegister": "未知",
+      "registerDeadline": "",
+      "todos": [
+        "暂无明确待办"
+      ],
+      "warnings": [],
+      "lowConfFields": [
+        "company",
+        "position"
+      ],
+      "conf": {
+        "company": "低",
+        "date": "高",
+        "startTime": "高",
+        "position": "低",
+        "method": "高",
+        "meetingUrl": "中"
+      },
+      "raw": "现邀请您就通威校招-工艺整合(盐城)职位进行初次(视频面试)面试 .会议链接: .面试时间: 2026-10-08 周四 14:00 .联系人: 张静子 .联系电话: 186****3292 期待您的答复,面试答复链接: .Tips:1面试有可能提前或延后10分钟,请提前入会,并等待主持人邀请您进入会场.2如有条件请着正装参加面试.查看完整内容: https://bsurl.cn/jRB08Bi8",
+      "inputRaw": "通威股份】【通威太阳能科技】 庞志斌 ，您好， 感谢您对我司的关注与选择，恭喜您已通过简历筛选及测评笔试环节，现邀请您就通威校招-工艺整合（盐城）职位进行初次（视频面试）面试  。会议链接：  。面试时间： 2026-10-08 周四 14:00 。联系人： 张静子 。联系电话： 186****3292 期待您的答复，面试答复链接：   。Tips：①面试有可能提前或延后10分钟，请提前入会，并等待主持人邀请您进入会场。②如有条件请着正装参加面试。查看完整内容: https://bsurl.cn/jRB08Bi8",
+      "status": "已确认",
+      "id": "55a8a636-1900-477a-9514-6062d5051d9f",
+      "createdAt": "2026-09-28T10:57:49.040Z",
+      "updatedAt": "2026-09-28T10:57:49.040Z",
       "reminded": []
     }
   ],
